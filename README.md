@@ -13,13 +13,6 @@ This is the scripts to reproduce the experiments from the [Interspeech 2024](htt
 
 ### Data format
 
-### Use the grammar
-
-```bash
-python src/grammar.py --wn_file "data/dico/index.sense" --no_transl "data/dico/no_translation.csv" --wsd "data/wsd_model/" --lexicon "data/dico/lexique.csv" --data "examples/input.csv" --out "examples/out.csv" --tags "data/dico/tags.csv"
-```
-An **out.html** file will be generated to see the output sequence.
-
 ##  📝 Citation
 
 ```

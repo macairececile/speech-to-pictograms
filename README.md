@@ -13,6 +13,13 @@ This is the scripts to reproduce the experiments from the [Interspeech 2024](htt
 
 ### Data format
 
+## Download trained models on HuggingFace
+
+## ⬇️ Download Trained Models
+
+The models are trained based on pytorch. 
+You can download all the models at [🤗huggingface model](https://huggingface.co/Propicto).
+
 ##  📝 Citation
 
 ```

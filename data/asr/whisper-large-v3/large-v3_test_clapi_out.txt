@@ -1,0 +1,2047 @@
+cefc-clapi-visite_guidee_manoir_guide1-903_1	 petit camion
+cefc-clapi-visite_guidee_manoir_guide2-523	 Oui, c'est sportif.
+cefc-clapi-reunion_conception_mosaic_architecture-1270	 Tout le temps.
+cefc-clapi-commerce_fromagerie-1472	 Merci.
+cefc-clapi-aperitif_chat-875	 j'imagine
+cefc-clapi-repas_olives-479	 Oui, j'ai cru.
+cefc-clapi-aperitif_rupture-799	 Ma mère n'avait pas la parole à la même chose.
+cefc-clapi-aperitif_rupture-828	 Merci parce que moi j'ai pas envie de le voir rentrer pour lui.
+cefc-clapi-reunion_conception_mosaic_architecture-1546	 Ça aurait été l'idéal, bureau bagagerie, là.
+cefc-clapi-repas_olives-222	 Bah lui aussi mais moi j'avais quelqu'un d'autre qui m'a demandé
+cefc-clapi-repas_olives-39	 C'est pas de rien
+cefc-clapi-aperitif_glasgow-608	 de avoir 50 ans
+cefc-clapi-aperitif_chat-10	 Mais c'est pas trop tôt !
+cefc-clapi-montage_meuble-32	 Merci.
+cefc-clapi-aperitif_rupture-89	 c'est fort
+cefc-clapi-commerce_fromagerie-2626	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1479	 C'est plutôt une bonne note.
+cefc-clapi-aperitif_rupture-1198	 Non, mais je vais faire comme je l'avais dit la soirée.
+cefc-clapi-repas_kiwi-946	 C'est ça
+cefc-clapi-aperitif_rupture-1025	 Moi, je suis allée le voir avec...
+cefc-clapi-commerce_fromagerie-164_2	 Merci.
+cefc-clapi-reunion_organisation_dh-1019	 c'est pas que chacun il est vécu aussi des rites aussi fous
+cefc-clapi-commerce_fromagerie-1440	 au revoir
+cefc-clapi-repas_olives-840	 C'est ça.
+cefc-clapi-reunion_conception_mosaic_architecture-1485	 C'est bon.
+cefc-clapi-repas_francais-446	 et quand elle meurt
+cefc-clapi-repas_kiwi-737	 et c'était vraiment une bonne pente quand même
+cefc-clapi-commerce_fromagerie-68	 Merci.
+cefc-clapi-aperitif_chat-21	 et expert à payer.
+cefc-clapi-repas_francais-326	 Je sais que trois quarts des gens, je n'en reviens jamais.
+cefc-clapi-commerce_fromagerie-1612	 A bientôt !
+cefc-clapi-repas_francais-612	 et on est beaucoup plus
+cefc-clapi-commerce_fromagerie-753	 Merci.
+cefc-clapi-reunion_organisation_dh-2165	 s'est présentée dans le plus
+cefc-clapi-repas_epinards-261	 On va mettre le boulon
+cefc-clapi-commerce_fromagerie-1686	 sont informés.
+cefc-clapi-aperitif_chat-999	 Et en bas à l'aise.
+cefc-clapi-repas_olives-1112	 Bon, ça va.
+cefc-clapi-aperitif_rupture-852	 Oui, oui.
+cefc-clapi-jeux_video_foot_Lyon-278	 C'est bon, on est bon.
+cefc-clapi-jeux_video_foot_Lyon-1972	
+cefc-clapi-aperitif_rupture-1254	 Sous-titrage Société Radio-Canada
+cefc-clapi-aperitif_chat-679	 à force tu vois
+cefc-clapi-commerce_fromagerie-346	 d'être en tribut
+cefc-clapi-reunion_organisation_dh-1701	 c'est
+cefc-clapi-reunion_organisation_dh-1272	 Et à chaque fois qu'on se confronte à une nouvelle façon de traiter le problème,
+cefc-clapi-aperitif_glasgow-1674	 Je ne comprends pas.
+cefc-clapi-repas_epinards-288	 Oui, il est bien avec le citron de l'avant-saint.
+cefc-clapi-aperitif_pois-604	 dans ta boîte
+cefc-clapi-reunion_organisation_dh-270	 et qu'on t'y est quand même.
+cefc-clapi-visite_guidee_manoir_guide2-854	 Bienvenue !
+cefc-clapi-repas_francais-981	 Au revoir.
+cefc-clapi-aperitif_glasgow-2477	 on est presque
+cefc-clapi-commerce_fromagerie-294	 dans les...
+cefc-clapi-commerce_fromagerie-704	 C'est bon.
+cefc-clapi-montage_meuble-277	 et le charnier avec le bois.
+cefc-clapi-repas_kiwi-101	 pour l'anglaise
+cefc-clapi-repas_kiwi-840	 Oui.
+cefc-clapi-reunion_conception_mosaic_architecture-1026	 parce que
+cefc-clapi-commerce_fromagerie-339	 Non mais...
+cefc-clapi-aperitif_glasgow-546	 et il te passe trois quarts de temps dans la journée
+cefc-clapi-aperitif_pois-400	 quand même on est dimanche
+cefc-clapi-repas_francais-436	 tu me donneras ton mail je t'enverrai des mails de temps en temps que tu me feras passer
+cefc-clapi-aperitif_rupture-1155	 Spouss limited
+cefc-clapi-reunion_conception_mosaic_architecture-2333	 dans la cour anglaise
+cefc-clapi-aperitif_glasgow-2183	 Tu veux boire encore un peu ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1097	 25 ans.
+cefc-clapi-reunion_conception_mosaic_architecture-593	 et un bassin de 5 mètres par 5 mètres.
+cefc-clapi-aperitif_rupture-1220	 Je ne sais pas.
+cefc-clapi-visite_guidee_manoir_guide2-1061	 à la demi-croix.
+cefc-clapi-montage_meuble-229	 Merci.
+cefc-clapi-repas_kiwi-836	 récupérer quoi ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1090	 Bon, je vais me repêcher.
+cefc-clapi-jeux_video_foot_Lyon-1708	 ...
+cefc-clapi-commerce_fromagerie-1695	 Oui, non.
+cefc-clapi-repas_kiwi-1257	 Maintenant c'est pas le visage que...
+cefc-clapi-visite_guidee_manoir_guide2-503	 Et c'est cette machine
+cefc-clapi-repas_francais-642	 Elle vient de savoir.
+cefc-clapi-visite_guidee_manoir_guide2-788	 C'est le film de Boram Gou.
+cefc-clapi-visite_guidee_manoir_guide1-368	 Et après, ils ont aussi rajouté tous les lombaires.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1285	 Parce qu'il y a un micro là aussi
+cefc-clapi-jeux_video_foot_Lyon-1684	 Non mais c'était qui en tout cas ?
+cefc-clapi-reunion_organisation_dh-1397	 certains états à 400 mille habitants qui se donnent des ambassades
+cefc-clapi-reunion_organisation_dh-1411	 effectivement, il est complètement anormal que l'Afrique, avec ses 50
+cefc-clapi-aperitif_glasgow-120	 Ah ouais ?
+cefc-clapi-aperitif_rupture-197	 sur mon cas, j'ai un enfant qui respecte la loi.
+cefc-clapi-repas_francais-1192	 j'ai enlevé celui que j'avais
+cefc-clapi-aperitif_glasgow-926	 C'est un emploi en beauté sociale.
+cefc-clapi-aperitif_rupture-726	 Merci.
+cefc-clapi-aperitif_glasgow-316	 c'était jusqu'à 8h30
+cefc-clapi-aperitif_rupture-789	 je commence
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-683	 Merci bien et bonne journée.
+cefc-clapi-aperitif_glasgow-2456	 Ok.
+cefc-clapi-visite_guidee_manoir_guide1-692	 on ne foulait pas que le cigare à l'époque. On met également l'opium de
+cefc-clapi-repas_francais-1047	 Je déménage de 4 à 5.
+cefc-clapi-repas_francais-1195	 j'ai retrouvé le CD que j'avais avant
+cefc-clapi-montage_meuble-394	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1398	 Il faut pas le placer là-haut.
+cefc-clapi-commerce_fromagerie-2093	 Merci.
+cefc-clapi-commerce_fromagerie-2700	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-17	 Oui, oui
+cefc-clapi-visite_guidee_manoir_guide2-987	 Et la lait de noix est une technique jacqueline.
+cefc-clapi-aperitif_pois-656	 La poignée de sang n'a pas vraiment beaucoup de travail.
+cefc-clapi-repas_francais-1018	 En fait, avec son post-tr et le mérin qu'il avait.
+cefc-clapi-repas_kiwi-1300	 et en même temps il y en a eux qui
+cefc-clapi-repas_epinards-7_2	 Merci.
+cefc-clapi-repas_francais-131	 donc ça ne coûtera rien normalement.
+cefc-clapi-reunion_organisation_dh-1327	 En fait, c'est une méthode qui, en gros,
+cefc-clapi-repas_francais-113	 Si tu rajoutais un truc, quoi, ça détruit toute ta mise en page.
+cefc-clapi-reunion_organisation_dh-699	 washesaling
+cefc-clapi-aperitif_pois-970	 Ah oui.
+cefc-clapi-visite_guidee_manoir_guide2-131	 Alors, ne cherchez pas de gel. Regardez ce que j'ai blogsé dans
+cefc-clapi-reunion_organisation_dh-1780	 Il se met l'attracteur étrange.
+cefc-clapi-repas_francais-700	 Non. Pas qui.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-332	 C'est bien, c'est de l'animation.
+cefc-clapi-aperitif_glasgow-34	 Je ne comprends pas, vous n'y croyez pas.
+cefc-clapi-reunion_organisation_dh-1231	 Ils ont voulu tester comment les étudiants de différentes nationalités
+cefc-clapi-repas_francais-1134	 après le réfléchissement,
+cefc-clapi-jeux_video_foot_Lyon-1875	 C'est trop bien.
+cefc-clapi-repas_francais-648	 elle déménage le 24 février.
+cefc-clapi-repas_kiwi-871	 ça paraît démine
+cefc-clapi-commerce_fromagerie-1039	 On va en avoir moins que 10.
+cefc-clapi-montage_meuble-74	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-202	 Oui, elles sont assises et tout ça.
+cefc-clapi-repas_francais-618	 En même temps, t'imagines, la pauvre, elle n'aura jamais accès à Internet.
+cefc-clapi-visite_guidee_manoir_guide1-720	 aux politiciens. Merci, Madame.
+cefc-clapi-visite_guidee_manoir_guide2-25	 C'est pas la même chose ?
+cefc-clapi-repas_kiwi-129	 mais ils sont trop beaux
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1230	 Donc ça serait 4h00 à 12h00 le soir.
+cefc-clapi-commerce_fromagerie-625	 C'est si beau.
+cefc-clapi-visite_guidee_manoir_guide2-830	 Alors là, vous avez des appartements du conservateur.
+cefc-clapi-aperitif_glasgow-755	 et puis on n'arrivait pas à se décider parce qu'on avait vraiment envie de prendre notre bateau
+cefc-clapi-aperitif_glasgow-364	 mais au lieu de tu vois au lieu de réagir genre
+cefc-clapi-aperitif_pois-167	 c'est clair
+cefc-clapi-jeux_video_foot_Lyon-355	 reflex
+cefc-clapi-reunion_organisation_dh-288	 on peut même jouer un autre rôle, c'est-à-dire que certains
+cefc-clapi-aperitif_chat-389	 Ça fait quand même bizarre, quoi.
+cefc-clapi-aperitif_rupture-884	 Je pense qu'il faut voir, mais il faut comprendre.
+cefc-clapi-reunion_conception_mosaic_architecture-2044	 pour rire
+cefc-clapi-repas_epinards-203	 Oui.
+cefc-clapi-repas_francais-384	 Et puis il y en a plein, tu vois, genre... Tu sais, qui était là hier soir.
+cefc-clapi-aperitif_chat-699	 Mais c'est...
+cefc-clapi-commerce_fromagerie-2166	 à présent
+cefc-clapi-jeux_video_foot_Lyon-953	 en val d'est c'est une mesure de 50 et après le bain noir ça et tu peux
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-288	 Et j'en ai.
+cefc-clapi-reunion_organisation_dh-1513	 Oui, oui, oui, oui, oui.
+cefc-clapi-visite_guidee_manoir_guide1-179	 Donc ça, ça a été à la mi-1980.
+cefc-clapi-jeux_video_foot_Lyon-885	 C'est une autre manière de vivre.
+cefc-clapi-aperitif_pois-914	 qui t'apprennent.
+cefc-clapi-aperitif_glasgow-1563	 mais je suis là, tu sais, j'arrive pas.
+cefc-clapi-visite_guidee_manoir_guide2-723	 Elle est moderne.
+cefc-clapi-reunion_conception_mosaic_architecture-639	 Ça dépend forcément.
+cefc-clapi-reunion_conception_mosaic_architecture-383	 Quelle solution pour l'hébergement ? Circulation linge propre et linge sale.
+cefc-clapi-jeux_video_foot_Lyon-1561	 Je ne peux pas.
+cefc-clapi-commerce_fromagerie-2106	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-770	 le fameux costume traditionnel de Cerbouli, cette fois bigouna.
+cefc-clapi-commerce_fromagerie-912	 Merci.
+cefc-clapi-aperitif_glasgow-2096	 sur le sol, je ne sais pas si on peut le faire.
+cefc-clapi-jeux_video_foot_Lyon-1374	 pas long.
+cefc-clapi-reunion_organisation_dh-96	 des situations, des crises d'autres qui peuvent avoir un impact revivable
+cefc-clapi-commerce_fromagerie-2554	 Merci.
+cefc-clapi-repas_kiwi-670	 Tu vois, je fais mes propres réflexions, je sais très bien ce que vous allez me dire.
+cefc-clapi-commerce_fromagerie-1812	 Donc on va peut-être un peu tendre le bâton pour se faire mal.
+cefc-clapi-montage_meuble-611	 Ou est-ce que c'est que ça peut...
+cefc-clapi-reunion_conception_mosaic_architecture-1934	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-680	 Merci.
+cefc-clapi-repas_kiwi-30	 Au revoir.
+cefc-clapi-aperitif_glasgow-2448	 Non.
+cefc-clapi-repas_kiwi-630	 C'est bien d'aller rencontrer quelqu'un,
+cefc-clapi-aperitif_chat-5	 Merci.
+cefc-clapi-reunion_organisation_dh-1421	 de l'Université de Caen.
+cefc-clapi-repas_kiwi-571	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-384	 On est tous dans la chambre de M. Astor.
+cefc-clapi-aperitif_chat-1050	 ce 4 là
+cefc-clapi-jeux_video_foot_Lyon-771	 Merci !
+cefc-clapi-aperitif_pois-535	 Merci.
+cefc-clapi-repas_kiwi-373	 voilà et
+cefc-clapi-commerce_fromagerie-769	 Oui, oui, oui !
+cefc-clapi-aperitif_rupture-629	 En général c'est vrai que...
+cefc-clapi-visite_guidee_manoir_guide1-432	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-806	 fonctionnait jusqu'en 1966, c'est un fonctionnaire tardif et exceptionnel.
+cefc-clapi-reunion_conception_mosaic_architecture-2787	 en tant que détaillé-champ.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1246	 deux.
+cefc-clapi-reunion_organisation_dh-1377	 chose, je ne sais pas, dans la littérature sud-américaine ou dans la philosophie allemande ou dans la
+cefc-clapi-commerce_fromagerie-1737	 C'est pas une école traditionnelle.
+cefc-clapi-repas_olives-189	 Merci.
+cefc-clapi-reunion_organisation_dh-813	 justement le chaos, c'est aussi le désordre
+cefc-clapi-aperitif_rupture-5	 C'est pas de mentir.
+cefc-clapi-aperitif_chat-1056	 Et du coup, c'est pratique quand t'as envie de sortir et tout.
+cefc-clapi-aperitif_chat-467	 en fait
+cefc-clapi-jeux_video_foot_Lyon-229	 Je ne sais pas si vous avez vu.
+cefc-clapi-jeux_video_foot_Lyon-1537	 J'en sais...
+cefc-clapi-reunion_organisation_dh-965	 de prendre en compte nos propres ressentis individuels,
+cefc-clapi-commerce_fromagerie-1760	 Il y avait un mec qui faisait des hamburgers.
+cefc-clapi-commerce_fromagerie-171	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1289	 Et ça, ça va être super.
+cefc-clapi-commerce_fromagerie-1382	 face du CABIS qui est dégoûté d'ailleurs.
+cefc-clapi-commerce_fromagerie-2491	 qu'ils aiment bien, le morbier s'ils ne sont pas réticents à avoir de la cendre ou un trait bleu au milieu du mois pour lesquels on a récupéré ces cendres du bleu
+cefc-clapi-repas_kiwi-1162	 il était là en arrière
+cefc-clapi-reunion_conception_mosaic_architecture-1444	 Oui.
+cefc-clapi-repas_kiwi-35	 Oh, je me suis craquée, c'est vrai.
+cefc-clapi-aperitif_rupture-356	 Merci.
+cefc-clapi-aperitif_chat-984	 Non, on est pas en tête là. T'as préparé à manger ? Non, bah là, tu devais bien manger.
+cefc-clapi-visite_guidee_manoir_guide2-1163	 il va témoigner vraiment de chaque scène du quotidien.
+cefc-clapi-commerce_fromagerie-627	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-54	 C'est bon, on va faire des vidéos.
+cefc-clapi-visite_guidee_manoir_guide1-546	 Et pareil.
+cefc-clapi-aperitif_rupture-455	 Ah si si Il a mis...
+cefc-clapi-commerce_fromagerie-2909	 J'arrive Olivier !
+cefc-clapi-visite_guidee_manoir_guide1-82	 Vous êtes à 100, nous vous aimons.
+cefc-clapi-aperitif_rupture-1302	 deux secondes et demi pour le temps
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1054	 alors c'est pour le soir
+cefc-clapi-commerce_fromagerie-1972	 ...
+cefc-clapi-aperitif_chat-251	 Oui, mais c'était chouette en fait, en suède en plus.
+cefc-clapi-aperitif_glasgow-1300	 parce que parce que tu sais que je veux faire un truc à l'internat
+cefc-clapi-reunion_conception_mosaic_architecture-262	 ça c'était les petites chants de
+cefc-clapi-visite_guidee_manoir_guide2-509	 Ah...
+cefc-clapi-commerce_fromagerie-1771	 Oui.
+cefc-clapi-jeux_video_foot_Lyon-283	 Voilà il est pris !
+cefc-clapi-repas_olives-902	 5 heures
+cefc-clapi-jeux_video_foot_Lyon-649	 c'est beau
+cefc-clapi-repas_epinards-201	 C'est bon, hein ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-326	 En tout cas, il y a quelqu'un qui vient.
+cefc-clapi-commerce_fromagerie-1151	 ces missions d'antiquaire
+cefc-clapi-aperitif_glasgow-612	 Excusez-moi.
+cefc-clapi-repas_olives-1065	 Non parce que j'ai pas envie de s'en délire
+cefc-clapi-jeux_video_foot_Lyon-1844	 On a un jeep qui va dépasser les champs.
+cefc-clapi-visite_guidee_manoir_guide1-869	 devient mère de 4 ans.
+cefc-clapi-visite_guidee_manoir_guide1-160	 Il n'y a pas d'étage mais...
+cefc-clapi-aperitif_pois-320	 bah moi je vais te dire c'est un petit peu
+cefc-clapi-commerce_fromagerie-1604	 Oui, je te laisse juste les boîtes et le fait.
+cefc-clapi-repas_kiwi-852	 Oui, c'est vrai.
+cefc-clapi-visite_guidee_manoir_guide1-647	 Et c'est ici à Cairezans que vous trouverez la plus grosse collection d'œuvres de Gusteau.
+cefc-clapi-aperitif_glasgow-1714	 Oui, tu as le choix de l'homme.
+cefc-clapi-jeux_video_foot_Lyon-1384	 où les gens étaient plutôt soutenus.
+cefc-clapi-aperitif_pois-863	 c'est mieux en fait
+cefc-clapi-repas_epinards-125	 Oui. Alors, t'es pas...
+cefc-clapi-visite_guidee_manoir_guide2-700	 C'est une grosse légende.
+cefc-clapi-aperitif_pois-871	 Merci.
+cefc-clapi-repas_epinards-266	 Au revoir.
+cefc-clapi-reunion_conception_mosaic_architecture-2297	 Moi, je suis péché.
+cefc-clapi-visite_guidee_manoir_guide1-465	 ils ont eu des sujets
+cefc-clapi-repas_francais-1014	 Alors tu vois ce qui était pas mal c'est que elle m'avait dit qu'il fallait absolument mettre le goyon.
+cefc-clapi-reunion_conception_mosaic_architecture-151	 Ici, c'était un bar qui accueillait les gens et les salles de réunion.
+cefc-clapi-repas_francais-746	 Pardon, il fallait que tu vois, je laisse des trucs à dire
+cefc-clapi-aperitif_pois-971	 le château.
+cefc-clapi-aperitif_pois-154	 C'est le petit arabe, tu vois.
+cefc-clapi-visite_guidee_manoir_guide2-1241	 Merci, monsieur.
+cefc-clapi-reunion_conception_mosaic_architecture-1281	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-472	 Sauf que...
+cefc-clapi-reunion_conception_mosaic_architecture-2049	 Pour des tâches ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-237	 Je suis beurre.
+cefc-clapi-jeux_video_foot_Lyon-1393	
+cefc-clapi-reunion_conception_mosaic_architecture-443	 C'est ça le but.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-219	 Ah, c'est mon goût les yeux.
+cefc-clapi-commerce_fromagerie-216	 ouais mais bon c'est bon
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1245	 ça fait
+cefc-clapi-jeux_video_foot_Lyon-1004	 Il m'a dit qu'il était en train de se débrouiller.
+cefc-clapi-reunion_organisation_dh-1446	 on ne va pas faire intérêt sur la question du pouvoir
+cefc-clapi-aperitif_glasgow-795	 Ils font ça ?
+cefc-clapi-visite_guidee_manoir_guide1-716	 c'était
+cefc-clapi-aperitif_rupture-952	 Ah ouais, mon gars !
+cefc-clapi-repas_kiwi-1268	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1728	 Le mitman et la réserve, je n'y crois pas trop.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-197	
+cefc-clapi-repas_francais-1032	 Mais le canapé, il est démonté.
+cefc-clapi-repas_epinards-219	 Je te demande que ce soit les poissons. Fais attention à moi avec le truc, parce que ça coule. Je vais te le dire si tu mets dans les épinards.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-413	 à tel téléphone
+cefc-clapi-repas_olives-467	 Non mais c'est ce qu'on disait avec ma soeur
+cefc-clapi-repas_francais-1129	 Le blocage avec la notice ?
+cefc-clapi-repas_francais-333	 mais ça me rend toujours un peu triste.
+cefc-clapi-commerce_fromagerie-1292	 Bonjour.
+cefc-clapi-visite_guidee_manoir_guide2-551	 Alors vous savez quelle est la particularité du châtaignier ? Peut-être.
+cefc-clapi-commerce_fromagerie-2242	 comme ça, ça va être
+cefc-clapi-repas_kiwi-20	 Oui.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-440	 Merci.
+cefc-clapi-repas_epinards-283	 C'est bon, on peut nous la reposer.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-210	 Bonne journée !
+cefc-clapi-repas_francais-133	 Peut-être que j'ai un problème.
+cefc-clapi-commerce_fromagerie-651	 des langres ça ça va être la plus douce des coupes d'avé la
+cefc-clapi-repas_kiwi-10	 Merci.
+cefc-clapi-aperitif_rupture-343	 Comme une débile, j'ai pété deux verres.
+cefc-clapi-montage_meuble-266_2	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-783	 Elle joue normalement.
+cefc-clapi-reunion_conception_mosaic_architecture-914	 C'est pas nous.
+cefc-clapi-jeux_video_foot_Lyon-1047	 Oh non, non, non, non, non, non, non.
+cefc-clapi-aperitif_rupture-687	 Avec des cotillons, des chapeaux, des chaussures.
+cefc-clapi-reunion_organisation_dh-1817	 le 17 janvier 2016, on a le réunion à Paris, qui se continue avec les collectifs fichés, qui ne comptent pas sur la réunion.
+cefc-clapi-aperitif_glasgow-2281	 Ça va pas trop ?
+cefc-clapi-reunion_organisation_dh-231	 qui nous forgent le sain combat de l'opinion
+cefc-clapi-repas_olives-743	 Oui, c'est couscous. C'est pas galbite.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-131	 Merci.
+cefc-clapi-aperitif_pois-982	 Merci.
+cefc-clapi-repas_francais-15	 il n'y a personne pour venir me chercher et tout,
+cefc-clapi-reunion_organisation_dh-1464	 s'inspirent des méthodes freinées
+cefc-clapi-repas_francais-442	 Moi j'arrive déjà pas trop là alors que je sais très bien qu'il faudrait.
+cefc-clapi-repas_olives-565_2	 C'est pas sensible ce que tu vas me faire là ?
+cefc-clapi-commerce_fromagerie-1059	 du recul, quand il n'y a pas de sérum dans le plat, si tu vas y chercher
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1252	 Denis Denis
+cefc-clapi-reunion_conception_mosaic_architecture-976	 et il veut que l'ascenseur donne plutôt sur une grande circulation qu'il appelle extérieure.
+cefc-clapi-commerce_fromagerie-764	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-351	 Merci bien.
+cefc-clapi-jeux_video_foot_Lyon-1782	 Même si je cartonne, je suis un pilote.
+cefc-clapi-aperitif_rupture-60	 Ça va, ouais.
+cefc-clapi-commerce_fromagerie-498	 Oui.
+cefc-clapi-reunion_conception_mosaic_architecture-2273	 Ça, c'est très, très lumineux.
+cefc-clapi-commerce_fromagerie-1671	 Merci.
+cefc-clapi-commerce_fromagerie-635	 à Paris
+cefc-clapi-visite_guidee_manoir_guide1-478	 processus
+cefc-clapi-reunion_organisation_dh-532	 personnellement je trouve que c'est pas la solution
+cefc-clapi-reunion_conception_mosaic_architecture-1	 Ah non, c'est bon.
+cefc-clapi-jeux_video_foot_Lyon-306	 On a les centenaires à terre.
+cefc-clapi-visite_guidee_manoir_guide1-856	 en fait de ici
+cefc-clapi-aperitif_pois-96	 Merci.
+cefc-clapi-repas_francais-1206	 Donc en plus j'ai perdu vachement de temps.
+cefc-clapi-reunion_organisation_dh-737	 Voilà, donc ça c'est une démarche anglo-saxonne.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1331	 bien.
+cefc-clapi-reunion_organisation_dh-1678	 commence à dessiner sur
+cefc-clapi-jeux_video_foot_Lyon-1884	 prête à défendre.
+cefc-clapi-reunion_conception_mosaic_architecture-1400	 ça oui
+cefc-clapi-aperitif_glasgow-444	 Merci.
+cefc-clapi-aperitif_glasgow-1700	 pour apprendre l'anglais
+cefc-clapi-aperitif_pois-471	 Au revoir.
+cefc-clapi-repas_kiwi-293	 Mais sans non-conviction parce que t'as vu le monde est nul en plus en animateur.
+cefc-clapi-commerce_fromagerie-1492	 Merci.
+cefc-clapi-aperitif_chat-1157	 tout le jeu ok et pourquoi est-ce que ça s'éteint ça
+cefc-clapi-repas_kiwi-1132	 fallait tout seul pour l'huiler
+cefc-clapi-visite_guidee_manoir_guide2-1245	 quand même connu pour son érotisme. Et c'est vrai que beaucoup de peintures dénudent un peu ces dames, surtout à l'époque. Mais
+cefc-clapi-aperitif_glasgow-598	 Et en fait, on a fait le premier test
+cefc-clapi-aperitif_glasgow-2011	 Et des fois, c'est abusé, quoi.
+cefc-clapi-reunion_conception_mosaic_architecture-2189	 Vrai.
+cefc-clapi-reunion_organisation_dh-1907	 Que dire ?
+cefc-clapi-commerce_fromagerie-1487	 Merci.
+cefc-clapi-aperitif_chat-818	 ça va être le premier Uchronie
+cefc-clapi-aperitif_glasgow-1989	 mais j'ai envie.
+cefc-clapi-aperitif_rupture-338	 Ouais, ouais.
+cefc-clapi-repas_francais-735	 ça ne vous coûtait rien
+cefc-clapi-reunion_conception_mosaic_architecture-2271	 Alors, c'est quand même...
+cefc-clapi-repas_kiwi-1226	 Tu vois vachement la différence entre le cyclone, les petites sections.
+cefc-clapi-aperitif_pois-229	 Parce que j'ai aucune idée en fait de ce que ça veut dire.
+cefc-clapi-jeux_video_foot_Lyon-200	 et on va
+cefc-clapi-jeux_video_foot_Lyon-752	 Non, ma pêche.
+cefc-clapi-aperitif_chat-293	 Oui, oui, on est à 150.
+cefc-clapi-commerce_fromagerie-2110	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-896	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1207	 recoupons deux sur une.
+cefc-clapi-aperitif_glasgow-2320	 à vendre du vin, je ne sais pas.
+cefc-clapi-aperitif_glasgow-1529	 Ah là là, c'est horrible.
+cefc-clapi-repas_francais-1263	 En même temps, excellent, moins 2 points pour un moyenne de retard.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-74	 Je le disais.
+cefc-clapi-aperitif_glasgow-493	 Non.
+cefc-clapi-repas_francais-379	 Tu as... Tu as un... Vas-y.
+cefc-clapi-reunion_organisation_dh-1451	 Je me suis posé la question par rapport à qui enseigne l'art de la coopération.
+cefc-clapi-visite_guidee_manoir_guide1-899	 Qu'il a voulu, non.
+cefc-clapi-commerce_fromagerie-2828	 à la moitié-moitié. J'ai cherché l'huile parce qu'on a aussi
+cefc-clapi-commerce_fromagerie-2891	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1005	 D'un quai d'île.
+cefc-clapi-reunion_organisation_dh-1089	 et on va réfléchir.
+cefc-clapi-commerce_fromagerie-2886	 A bientôt !
+cefc-clapi-commerce_fromagerie-1241	 Donc ils auront 18 décarts.
+cefc-clapi-commerce_fromagerie-806	 de l'éducation
+cefc-clapi-repas_francais-296	 En licence. Apparemment, il est réputé droit communautaire dans l'international.
+cefc-clapi-aperitif_chat-982	 Moi en fait c'est ça que j'ai, je suis la première en B. Tu peux pas prendre un perroquet à manger.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-94	 Oui, c'est pour l'école.
+cefc-clapi-reunion_organisation_dh-698	 C'est juste.
+cefc-clapi-aperitif_chat-473	 C'est clair.
+cefc-clapi-reunion_conception_mosaic_architecture-359	 Moi, le logement gardien, depuis le début, elle rachète la maison.
+cefc-clapi-jeux_video_foot_Lyon-301	 par la destination.
+cefc-clapi-reunion_organisation_dh-815	 pas par les gens,
+cefc-clapi-repas_olives-353	 ça n'a rien fait
+cefc-clapi-commerce_fromagerie-2592	 ça fait un petit peu
+cefc-clapi-aperitif_pois-226	 Merci.
+cefc-clapi-aperitif_pois-927	 ...
+cefc-clapi-commerce_fromagerie-1088_2	 Merci.
+cefc-clapi-commerce_fromagerie-24	 Merci.
+cefc-clapi-aperitif_chat-23	 Je ne l'ai jamais vue, ce petit chat.
+cefc-clapi-jeux_video_foot_Lyon-1614	 Je l'avais dit.
+cefc-clapi-visite_guidee_manoir_guide2-1246	 Mais l'école de Fontainebleau c'est systématique.
+cefc-clapi-reunion_organisation_dh-1200	 ici, en France, comment ça va nous parler ?
+cefc-clapi-reunion_organisation_dh-806	 il n'y a plus un pays qui obéit à la montée. Mais c'est là où une montée à eau... C'est Charida.
+cefc-clapi-reunion_organisation_dh-151	 Ça pourrait être vraiment... Parce que si vous regardez dans la théorie du chaos, il y a la graine cachée de l'avenir.
+cefc-clapi-visite_guidee_manoir_guide1-515	 acheter tout
+cefc-clapi-commerce_fromagerie-2921	 Ça va ?
+cefc-clapi-reunion_organisation_dh-1558	 les écrans de télévision.
+cefc-clapi-reunion_conception_mosaic_architecture-2689	 mais on avait bien l'idée, soit c'était ce coquille là, d'avoir
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-763	 Oui.
+cefc-clapi-commerce_fromagerie-1512	 Tout ça, c'est du vache frais.
+cefc-clapi-jeux_video_foot_Lyon-557	
+cefc-clapi-repas_epinards-158	 C'est des rois d'or. Ils sont en bas.
+cefc-clapi-visite_guidee_manoir_guide1-430	 Si vous regardez, vous pouvez voir mon abîme, parplexe.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-246	 qu'est ce que vous trouvez ?
+cefc-clapi-aperitif_pois-550	 pas qu'il soit contaminé
+cefc-clapi-repas_olives-1036	 dans les familles.
+cefc-clapi-reunion_organisation_dh-393	 d'imaginer ce qui pourrait être le tout.
+cefc-clapi-reunion_organisation_dh-1581	 Et toi, tu penses quelque chose que tu as fait toi-même
+cefc-clapi-repas_olives-935	 Alors eux, c'est pas 20 minutes de pause qui se prennent.
+cefc-clapi-repas_kiwi-623	 Et donc du coup, elle a trop bien changé le poids.
+cefc-clapi-commerce_fromagerie-1169_1	 Merci.
+cefc-clapi-commerce_fromagerie-2162	 Oui, il y a des choses qu'on va refaire.
+cefc-clapi-repas_kiwi-361	 Et d'ailleurs, nous,
+cefc-clapi-aperitif_pois-31	 Oui.
+cefc-clapi-visite_guidee_manoir_guide2-602	 Je vous passe les détails.
+cefc-clapi-aperitif_pois-598	 à Noël au fait
+cefc-clapi-commerce_fromagerie-2543	 Alors est-ce que vous étiez là pour le Festival Lumière
+cefc-clapi-repas_olives-248	 Oh non je dis jamais une faute, mais je suis insoprime.
+cefc-clapi-reunion_conception_mosaic_architecture-2036	 L'escalier à côté de la chambre 33, il dessert le moins un.
+cefc-clapi-aperitif_pois-791	 En fait, justement, c'est pour ça que là, on se voit plus souvent ici, quoi. Ouais.
+cefc-clapi-aperitif_glasgow-1282	 Merci.
+cefc-clapi-commerce_fromagerie-1035	 ...
+cefc-clapi-jeux_video_foot_Lyon-1006	 en vongule.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-473	 au dîner. Je fais cette chose
+cefc-clapi-reunion_conception_mosaic_architecture-1545	 Bureau bagagerie ?
+cefc-clapi-reunion_organisation_dh-1864	 C'est quelque chose de très très fort
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-309	 Vous vous êtes fait filmer vous aussi.
+cefc-clapi-commerce_fromagerie-970	 Ah oui, quand même. Je crois que j'arrive jusqu'à 6 en général.
+cefc-clapi-jeux_video_foot_Lyon-1271	 Oui, oui.
+cefc-clapi-aperitif_glasgow-1524	 Ouais mais après ça rentre aussi.
+cefc-clapi-reunion_organisation_dh-1820	 sur le site et je vous en prie au revoir
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-97	 Bonne journée, merci.
+cefc-clapi-aperitif_chat-259	 vous avez vraiment chaud, quoi.
+cefc-clapi-repas_kiwi-415	
+cefc-clapi-aperitif_pois-976	 Merci.
+cefc-clapi-montage_meuble-417	 Merci.
+cefc-clapi-commerce_fromagerie-1876	 Non.
+cefc-clapi-aperitif_glasgow-2003	 C'est habillé quoi ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1017	 C'est fini les fraises ?
+cefc-clapi-aperitif_chat-50	 mais
+cefc-clapi-repas_kiwi-1396	 à notre ménage.
+cefc-clapi-aperitif_glasgow-1005	 je crois que je dois en faire des
+cefc-clapi-aperitif_rupture-1200	 comme ça passe un coup
+cefc-clapi-repas_francais-163	 qu'on ne connaît pas ce qui se passait.
+cefc-clapi-montage_meuble-488	 Ouais, c'est clair.
+cefc-clapi-aperitif_pois-918	 Sinon on va au restaurant.
+cefc-clapi-commerce_fromagerie-870	 Merci.
+cefc-clapi-commerce_fromagerie-1961	 et je vais traverser les cours.
+cefc-clapi-repas_kiwi-184	 mais vu qu'elle est trop crevée après le vendredi soir pour rentrer, à chaque fois le
+cefc-clapi-repas_francais-1223	 j'ai remarqué qu'en fait il enregistrait même pas les dernières modifications que tu as mon dossier de Bourg-Cambrai
+cefc-clapi-aperitif_pois-575	 moi je me fais exceller je te dis c'est vraiment pour pas qu'il
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-730	 Il y a une marque qui n'a pas
+cefc-clapi-commerce_fromagerie-1003	 pour faire partie de la...
+cefc-clapi-commerce_fromagerie-869	 Voilà.
+cefc-clapi-jeux_video_foot_Lyon-47	 Si nous jouons à des sessions de balle, ça ne marche pas.
+cefc-clapi-commerce_fromagerie-76	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2938	 en fait
+cefc-clapi-visite_guidee_manoir_guide2-655	 Alors, vous avez peut-être remarqué... Oui, madame a le droit à une salle de bain.
+cefc-clapi-jeux_video_foot_Lyon-1269	 c'est pas
+cefc-clapi-reunion_conception_mosaic_architecture-613	 ça et l'autre.
+cefc-clapi-visite_guidee_manoir_guide2-1420	 Il s'occupe de Noémie, qui a la santé fragile, et se consacre entièrement à sa vie politique en tant que sénateur.
+cefc-clapi-reunion_conception_mosaic_architecture-470	 Oh, monsieur.
+cefc-clapi-repas_kiwi-1025	 Merci.
+cefc-clapi-commerce_fromagerie-1682	 ça me paraît être moins des choses, quoi.
+cefc-clapi-reunion_organisation_dh-1555	 d'autant mieux la biaiser, d'autant mieux la esquiver, ou aller au-delà. Parce qu'effectivement, des peurs, on en a sur les points d'en-deux, je pense.
+cefc-clapi-reunion_conception_mosaic_architecture-1950	 Oh!
+cefc-clapi-commerce_fromagerie-703	 Oui, j'ai demandé.
+cefc-clapi-aperitif_glasgow-908	 Merci.
+cefc-clapi-aperitif_rupture-230	 Non, il ne meurt.
+cefc-clapi-commerce_fromagerie-3036	 Je ne vois pas.
+cefc-clapi-aperitif_pois-216	 C'est pour manger ? On va faire des barbes glacées.
+cefc-clapi-repas_olives-619	 Moi je me sens plus fin
+cefc-clapi-commerce_fromagerie-955	 Si vous le savez, il y en avait un sur Gouda aussi.
+cefc-clapi-commerce_fromagerie-2158	 Merci.
+cefc-clapi-aperitif_chat-845	 C'est pas lié au pétrole ou non ?
+cefc-clapi-reunion_organisation_dh-2063	 Donc...
+cefc-clapi-aperitif_glasgow-2181	 Oui.
+cefc-clapi-reunion_organisation_dh-7	 qui n'ont pas déjà eu d'oeuvre.
+cefc-clapi-repas_olives-616	 Tu veux pleiner, t'es là.
+cefc-clapi-visite_guidee_manoir_guide1-760	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-1160	 et puis la Bretagne.
+cefc-clapi-reunion_conception_mosaic_architecture-2115	 fait grandir déjà.
+cefc-clapi-aperitif_glasgow-2455	 Merci.
+cefc-clapi-commerce_fromagerie-2028	 pas trop que ça va donner
+cefc-clapi-visite_guidee_manoir_guide1-313	 Merci.
+cefc-clapi-commerce_fromagerie-2947	 C'est bien.
+cefc-clapi-visite_guidee_manoir_guide2-1437	 Voilà
+cefc-clapi-aperitif_glasgow-1627	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2048	 ou alors j'ai un accès propre.
+cefc-clapi-reunion_conception_mosaic_architecture-2274	 Ça fait un espace...
+cefc-clapi-commerce_fromagerie-2944	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1166	 Oh!
+cefc-clapi-jeux_video_foot_Lyon-563	 Je n'arrive
+cefc-clapi-commerce_fromagerie-355	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-48	 a quand même ces murs en granit.
+cefc-clapi-aperitif_chat-702	 Je sais pas Chamsi c'est mon pote
+cefc-clapi-visite_guidee_manoir_guide1-113	 Vous n'êtes pas trop noyé ?
+cefc-clapi-repas_olives-892	 Oui C'est le physique qui peut se mettre en place Oui
+cefc-clapi-visite_guidee_manoir_guide2-880	 Si on a eu beaucoup de réalisme dans le vestibule
+cefc-clapi-commerce_fromagerie-1079	 Je me demandais d'où vous étiez.
+cefc-clapi-montage_meuble-316	 Et c'est mon tourniquet.
+cefc-clapi-commerce_fromagerie-2817	 C'est la fée hier, mais...
+cefc-clapi-jeux_video_foot_Lyon-99	 C'est les choses pour les anglais.
+cefc-clapi-aperitif_chat-855_2	 Enfin un de ces jours fait pour le moment que je vis
+cefc-clapi-commerce_fromagerie-1905	 au BAN, au COACHE
+cefc-clapi-repas_francais-1273	 et par les difficultés
+cefc-clapi-reunion_conception_mosaic_architecture-1723	 C'est un objet finalement.
+cefc-clapi-aperitif_glasgow-448	 avec ses amis, tu vois.
+cefc-clapi-reunion_conception_mosaic_architecture-712	 et on a notre salle sous les voûtes et là l'accès
+cefc-clapi-aperitif_pois-899	 C'est une géniale idée.
+cefc-clapi-aperitif_pois-694	 C'est la preuve d'histoire.
+cefc-clapi-montage_meuble-206	 mais on sache que les malours
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-279	 Il n'y a que Valo aujourd'hui en pâté.
+cefc-clapi-aperitif_rupture-326	 Je suis équipée hein !
+cefc-clapi-aperitif_glasgow-2419	 se mettre tous ensemble
+cefc-clapi-aperitif_glasgow-1578	 non
+cefc-clapi-repas_olives-707	 exprès
+cefc-clapi-aperitif_glasgow-2307	 Merci.
+cefc-clapi-commerce_fromagerie-1584	 Oui, on a même eu le choix en brigade suisse.
+cefc-clapi-aperitif_pois-182	 Moi, si je n'ai pas ma voiture, mais je ne peux pas aller travailler, je peux rien faire.
+cefc-clapi-reunion_conception_mosaic_architecture-1911	 La chambre 33...
+cefc-clapi-commerce_fromagerie-1280	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-256	 Voilà
+cefc-clapi-commerce_fromagerie-1554	 Mais tu savais que c'est marrant parce qu'on a une bataille de l'université, ça va faire deux ans qu'on a rendu le dossier là.
+cefc-clapi-reunion_conception_mosaic_architecture-293	 la personne qui va gérer l'hôtel nous fait part de ces remarques.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1089	 Ouais, c'est
+cefc-clapi-aperitif_chat-573	 C'est tout.
+cefc-clapi-reunion_conception_mosaic_architecture-171	 et on vient juste traiter quelque chose d'un peu plus contemporain, mais qui est en retrait par rapport au mur.
+cefc-clapi-reunion_organisation_dh-536	 Je me rappelle si je dois aller pour un temps par rapport au dialogue en humanité.
+cefc-clapi-repas_kiwi-470	 et du coup c'est lui
+cefc-clapi-aperitif_rupture-533	 des mouilles de pommes ultra sucrées très
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-303	 Oui.
+cefc-clapi-aperitif_chat-304_2	 les valeurs
+cefc-clapi-visite_guidee_manoir_guide1-906	 Pareil pour la chapelle.
+cefc-clapi-commerce_fromagerie-1935	 – Sous-titrage FR 2021
+cefc-clapi-reunion_conception_mosaic_architecture-1379	 et vous,
+cefc-clapi-visite_guidee_manoir_guide2-345	 des glacières.
+cefc-clapi-aperitif_rupture-1024	 Mais il est...
+cefc-clapi-jeux_video_foot_Lyon-946	 Hum...
+cefc-clapi-aperitif_glasgow-1136	 Merci.
+cefc-clapi-repas_kiwi-1218	 Puis bon, il y a... Moi, je trouve que c'est encore plus intéressant de se dire...
+cefc-clapi-reunion_conception_mosaic_architecture-852	 On avait dit qu'en fait, comme il est en très mauvais état, on conserverait probablement uniquement ce qui était en bois assez joli.
+cefc-clapi-visite_guidee_manoir_guide1-218	 Lévi-Lévin avait beaucoup dû, en 16e, 17e ou 18e, de grâner sur la cheminée des croix quand il y avait un mort dans la maison.
+cefc-clapi-aperitif_glasgow-259	 je sais plus si c'est celui à l'ouest parce qu'on en a vu un autre
+cefc-clapi-commerce_fromagerie-56	 Ce qui est intéressant, c'est qu'on est situésASS eine assimilation,
+cefc-clapi-reunion_conception_mosaic_architecture-461	 Oui, c'est ça.
+cefc-clapi-commerce_fromagerie-3050	 Je vais laisser Util yay sula l'UM qui a changé
+cefc-clapi-jeux_video_foot_Lyon-808	
+cefc-clapi-aperitif_chat-216	 c'est qui moi
+cefc-clapi-visite_guidee_manoir_guide1-411	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-839	 On se disait, mais c'est éclairé.
+cefc-clapi-commerce_fromagerie-1993	 et quand on va à la tête là,
+cefc-clapi-reunion_conception_mosaic_architecture-2533	 Je te parle.
+cefc-clapi-reunion_organisation_dh-984	 parce qu'on n'avait pas les outils de gérer la situation.
+cefc-clapi-visite_guidee_manoir_guide2-1039	 Elle est en bronze réalisée quand même par le sculpteur
+cefc-clapi-reunion_conception_mosaic_architecture-563	 Ça va avec...
+cefc-clapi-jeux_video_foot_Lyon-1931	 Je te le dis maintenant.
+cefc-clapi-aperitif_glasgow-722	 je le connais super sérieux
+cefc-clapi-commerce_fromagerie-1998	 Vous êtes d'accord ?
+cefc-clapi-aperitif_rupture-263	 je sais pas ça me...
+cefc-clapi-repas_kiwi-747	 Non, il y a un carré médic.
+cefc-clapi-reunion_conception_mosaic_architecture-1599	 le clown
+cefc-clapi-repas_olives-990	 Moi comme je m'en mets ça va être assez confortable
+cefc-clapi-reunion_conception_mosaic_architecture-2225	 C'est assez sympa.
+cefc-clapi-repas_francais-1131	 Mais en même temps tu regardes les notices.
+cefc-clapi-reunion_organisation_dh-2103	 Eux ils ont fait une soupe populaire à l'extérieur, mais ils faisaient très très fort ce jour-là.
+cefc-clapi-reunion_conception_mosaic_architecture-2292	 Et là, on l'avait ici.
+cefc-clapi-commerce_fromagerie-2821	 plus frais ou un petit peu plus affiné
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-262	 17h14.
+cefc-clapi-repas_epinards-378	 Amen.
+cefc-clapi-aperitif_rupture-585	 pas la mise à
+cefc-clapi-aperitif_chat-147	 Oui.
+cefc-clapi-montage_meuble-34	 Bien.
+cefc-clapi-aperitif_glasgow-1975	 Et j'ai une copine qui lui parlait.
+cefc-clapi-aperitif_chat-330	
+cefc-clapi-commerce_fromagerie-1064	 et c'est ce qui confère à la limelette comme à d'autres fromages
+cefc-clapi-repas_kiwi-854	 Mais c'est trop mignon !
+cefc-clapi-reunion_organisation_dh-662	 Et donc, je peux peut-être... La résilience au travail, de cette façon-là, jusqu'à ce qu'on ait compris...
+cefc-clapi-reunion_organisation_dh-1150	 et à la première ligne.
+cefc-clapi-reunion_conception_mosaic_architecture-165	 Oui, voilà.
+cefc-clapi-aperitif_glasgow-1065	 les gens elles m'a trop envoyé chier moi j'étais là
+cefc-clapi-aperitif_glasgow-1473	 en plus ?
+cefc-clapi-montage_meuble-340	 Je dirais... C'est 5h10 qui trouve nos clés.
+cefc-clapi-aperitif_glasgow-1296	 que je présente à la
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-184	 Bonne journée à vous.
+cefc-clapi-aperitif_glasgow-2282	 C'est vrai. Mais ça se rend bien.
+cefc-clapi-commerce_fromagerie-39	 j'ai envie de mettre les langues là
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-416	 avec des opérateurs. C'est quoi ? Le téléphone.
+cefc-clapi-aperitif_glasgow-2178	 Il avait pris de l'âme.
+cefc-clapi-commerce_fromagerie-2797	 et en Charente-et-Loire.
+cefc-clapi-reunion_conception_mosaic_architecture-2469	 mais finalement, en bout, là, on aura peut-être une salle cloisonnable de réunion.
+cefc-clapi-commerce_fromagerie-173	 Merci.
+cefc-clapi-aperitif_glasgow-198	 on est à la vie, sur la mer.
+cefc-clapi-commerce_fromagerie-1019	 Merci.
+cefc-clapi-repas_epinards-207	 Oui, la sonne est un peu petite.
+cefc-clapi-jeux_video_foot_Lyon-266	 Il a l'air d'y avoir...
+cefc-clapi-visite_guidee_manoir_guide1-905	 Donc on avait un petit oratoire qui a été transformé en simple placard, on les a mis ici.
+cefc-clapi-repas_kiwi-232	 parce qu'elle voulait plus rentrer dans le monde du travail
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-100	 Oui voilà
+cefc-clapi-commerce_fromagerie-3105	 Merci.
+cefc-clapi-repas_francais-1249	 mais par rapport à mon dossier, je le réexplique
+cefc-clapi-aperitif_glasgow-1286	 Aujourd'hui, j'ai imprimé tous les textes que j'avais à lire.
+cefc-clapi-jeux_video_foot_Lyon-390	 T'es que t'en bouge.
+cefc-clapi-reunion_conception_mosaic_architecture-2227	 et puis subitement c'est là où ils vont découvrir la grande salle hein
+cefc-clapi-aperitif_glasgow-1272	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-961	 et de l'esprit.
+cefc-clapi-aperitif_chat-750	 j'ai l'air
+cefc-clapi-repas_kiwi-92	 dîner presque parfait
+cefc-clapi-repas_olives-285	 Bien, je vais lui demander
+cefc-clapi-aperitif_pois-939	 Oui.
+cefc-clapi-repas_kiwi-705	 Je sais plus, ça a...
+cefc-clapi-repas_francais-399	 En plus quand tu pars à Arnaud ça te coupe quand même vachement
+cefc-clapi-visite_guidee_manoir_guide2-1193	 Dans ce petit comportement astucieux, on peut cacher de quoi fumer.
+cefc-clapi-commerce_fromagerie-2353	 Merci.
+cefc-clapi-reunion_organisation_dh-267	 n'est pas si terrifiant que ça. C'est vrai que il va falloir boire un grand verre d'eau froide pour frotter.
+cefc-clapi-jeux_video_foot_Lyon-270	 Il a joué des mains.
+cefc-clapi-repas_epinards-47	 On se garde ça si cher.
+cefc-clapi-aperitif_rupture-600	 Ouh, il y a encore de l'argent !
+cefc-clapi-commerce_fromagerie-2905	 Merci.
+cefc-clapi-repas_francais-794	 Ah,
+cefc-clapi-aperitif_glasgow-169	 Après, ben, là...
+cefc-clapi-reunion_organisation_dh-68	 et tranquille.
+cefc-clapi-montage_meuble-414	 C'est bon.
+cefc-clapi-aperitif_glasgow-944	 Merci.
+cefc-clapi-repas_francais-923	 Bon, c'est vrai que si j'avais pu prévoir que la couleur ressortirait comme ça, j'aurais peut-être un petit peu atténué.
+cefc-clapi-jeux_video_foot_Lyon-1667	 Non.
+cefc-clapi-commerce_fromagerie-779	 même si on est
+cefc-clapi-visite_guidee_manoir_guide2-1154	 donc cette technique italienne dont les éthénistes sont très fiers.
+cefc-clapi-aperitif_rupture-3	 Au revoir, d'accord !
+cefc-clapi-aperitif_chat-86	 Tiens, mais d'un oignon ?
+cefc-clapi-commerce_fromagerie-3065	 pas de soucis
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-917	 tu fais comme tu veux
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-844	 5 et 10 impeccable
+cefc-clapi-aperitif_glasgow-1549	 Déjà, je trouve ça dur de comprendre les espérances qui parlent anglais, mais
+cefc-clapi-aperitif_chat-1053	 Une berlingo ou une kangoo, un truc dans le genre qui ressemble.
+cefc-clapi-visite_guidee_manoir_guide2-876	 vu vos gants ?
+cefc-clapi-commerce_fromagerie-2984	 c'est moyen.
+cefc-clapi-repas_francais-30	 Merci. Fidélien.
+cefc-clapi-repas_francais-651	 Même en train ?
+cefc-clapi-commerce_fromagerie-1571	 Je suis allée même à l'ASR.
+cefc-clapi-reunion_organisation_dh-2047	 et cette année on avait réduit
+cefc-clapi-aperitif_rupture-348	 Non, c'est ceux qui boivent qui pèsent les verres. Oui, ben non. Oh mon Dieu, qu'est-ce qu'il est arrivé, tu vois.
+cefc-clapi-visite_guidee_manoir_guide1-188	 de famille.
+cefc-clapi-aperitif_glasgow-1471	 mais dont une qui avait un trop bon niveau d'anglais pour notre groupe.
+cefc-clapi-visite_guidee_manoir_guide1-831	 Merci.
+cefc-clapi-repas_olives-729	 Elles sont additionnelles ?
+cefc-clapi-visite_guidee_manoir_guide1-189	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-786	 Merci.
+cefc-clapi-aperitif_chat-1152	 Bravo !
+cefc-clapi-commerce_fromagerie-1964	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2897	 J'aime bien beaucoup cette idée de rideau.
+cefc-clapi-aperitif_glasgow-30	 Tu veux...
+cefc-clapi-reunion_conception_mosaic_architecture-764	 Oui, les sanitaires.
+cefc-clapi-aperitif_glasgow-1248	 Oui, d'accord.
+cefc-clapi-commerce_fromagerie-1526	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-706	 des têtes, il mettra des
+cefc-clapi-commerce_fromagerie-2969	 à la semaine prochaine.
+cefc-clapi-aperitif_glasgow-212	 de ma chambre.
+cefc-clapi-reunion_conception_mosaic_architecture-1271	 Ça, c'est...
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-191	 Faites attention, vous êtes filmés aujourd'hui.
+cefc-clapi-aperitif_pois-326	 Oui parce que nous on fait une fois sur deux
+cefc-clapi-jeux_video_foot_Lyon-1025	 Je vous mette dans le match.
+cefc-clapi-reunion_organisation_dh-2183	 C'est bon.
+cefc-clapi-reunion_organisation_dh-1294_2	 Merci.
+cefc-clapi-aperitif_pois-690	 Il a terminé.
+cefc-clapi-aperitif_rupture-58	 Merci.
+cefc-clapi-commerce_fromagerie-1719	 Moi, ce que j'ai dit hier, je suis allé avec...
+cefc-clapi-repas_olives-481	 C'est pas con ça
+cefc-clapi-montage_meuble-383	 mais il n'y a que celle-ci en...
+cefc-clapi-aperitif_rupture-572	 C'est toujours...
+cefc-clapi-reunion_conception_mosaic_architecture-854	 C'est juste une lame de verre derrière pour en faire un petit salon ou quelque chose d'un peu...
+cefc-clapi-reunion_conception_mosaic_architecture-1238	 et lui il a supprimé tous ceux qui n'étaient pas des points durs.
+cefc-clapi-visite_guidee_manoir_guide2-1018	 C'est une bonne part de l'écoute, non ?
+cefc-clapi-reunion_conception_mosaic_architecture-2305	 Et je me demandais...
+cefc-clapi-reunion_conception_mosaic_architecture-629	 C'est ce que...
+cefc-clapi-visite_guidee_manoir_guide2-553	 Non.
+cefc-clapi-jeux_video_foot_Lyon-887	 Oh, t'aurais pas dû me dire ça !
+cefc-clapi-visite_guidee_manoir_guide1-915	 Même si on est au-delà,
+cefc-clapi-aperitif_glasgow-131	 Deux heures, quoi.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-810	 Vous êtes filmés aujourd'hui. Attention.
+cefc-clapi-reunion_organisation_dh-185	 éviter le chaos
+cefc-clapi-visite_guidee_manoir_guide2-1471	 Oui Pour la même raison, la pièce ici qui était financière chapelle va être convertie en pièce d'habitation
+cefc-clapi-aperitif_pois-306	 On a fait, je ne sais pas, une dizaine de pots.
+cefc-clapi-visite_guidee_manoir_guide2-914	 Alors Gilles voulait un peu populariser les arts sacrés.
+cefc-clapi-visite_guidee_manoir_guide2-278	 et les murs qui m'ont ajouté les murs sont ceux des autres. Voilà.
+cefc-clapi-jeux_video_foot_Lyon-1000	 Merci.
+cefc-clapi-reunion_organisation_dh-784	 Le plus du désordre mondial suggère qu'il y aurait un ordre mondial
+cefc-clapi-reunion_conception_mosaic_architecture-696	 Là, c'est presque un accès privatif du fitness center.
+cefc-clapi-reunion_conception_mosaic_architecture-2171	 A tous et à toutes.
+cefc-clapi-aperitif_chat-1107	 Au revoir.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1217	 Ouais voilà
+cefc-clapi-visite_guidee_manoir_guide2-977	 C'est vrai qu'il est de bon ton de montrer à la fois sa culture,
+cefc-clapi-commerce_fromagerie-75	 Non.
+cefc-clapi-aperitif_chat-799	 c'est pas facile
+cefc-clapi-montage_meuble-518	 alors c'est le cas c'est tout c'est tout
+cefc-clapi-aperitif_chat-238	 Je demande en fait, comment ça va ?
+cefc-clapi-repas_kiwi-1061	 C'est un peu lignatoire.
+cefc-clapi-aperitif_pois-797	 mais c'est là, c'est très tôt
+cefc-clapi-repas_epinards-54	 Tu veux un autre poids pour enchaîner tes bouquins, tes cahiers ?
+cefc-clapi-jeux_video_foot_Lyon-980	 je le click
+cefc-clapi-jeux_video_foot_Lyon-1704	 Vous demandez dans lequel on peut aller conquest..?
+cefc-clapi-reunion_conception_mosaic_architecture-245	 comme si finalement un jour il démonte tout,
+cefc-clapi-visite_guidee_manoir_guide1-433	 ça a bien été pensé au 19ème siècle puisque je vous l'ai dit on a augmenté le plafond de niveau
+cefc-clapi-jeux_video_foot_Lyon-707	 C'est pas de l'huile.
+cefc-clapi-aperitif_glasgow-1207	 Non, je ne suis pas trop chère.
+cefc-clapi-visite_guidee_manoir_guide2-1159	 Puis dans la Bretagne, il va tomber à nouveau du bretonne.
+cefc-clapi-aperitif_pois-101	 Parce que quand j'étais petite, j'avais une collection avec des machins, avec des chats, monsieur.
+cefc-clapi-aperitif_glasgow-1147	 Sous-titrage Société Radio-Canada
+cefc-clapi-commerce_fromagerie-939	 Merci.
+cefc-clapi-repas_francais-519	 j'avais balancé l'info, tu vois, en toute confiance.
+cefc-clapi-reunion_organisation_dh-831	 qui est mis en place correspond à un besoin de gérer le chaos.
+cefc-clapi-commerce_fromagerie-2799	 Ouais, excusez-moi.
+cefc-clapi-aperitif_rupture-397	...
+cefc-clapi-repas_kiwi-803	 Je suis tout pris pour grand
+cefc-clapi-reunion_conception_mosaic_architecture-1156	 Simone Frieda
+cefc-clapi-aperitif_pois-270	 dans lesquels
+cefc-clapi-aperitif_pois-516	 tu n'as pas fait le truc avec les valsins ?
+cefc-clapi-aperitif_rupture-683	 mais ça a été un long temps que je ne l'ai pas reçu.
+cefc-clapi-visite_guidee_manoir_guide2-590	 et que
+cefc-clapi-repas_epinards-367	 Oui, c'est ça.
+cefc-clapi-aperitif_glasgow-278	 C'est énorme.
+cefc-clapi-reunion_conception_mosaic_architecture-401	 avec les deux
+cefc-clapi-jeux_video_foot_Lyon-543	 Oui, c'est très bien.
+cefc-clapi-aperitif_chat-941	 communication
+cefc-clapi-commerce_fromagerie-871	 C'est sûr.
+cefc-clapi-jeux_video_foot_Lyon-1278	 Qu'est-ce que tu as mis dans le menu, à ce temps-là ?
+cefc-clapi-commerce_fromagerie-288	 dans l'action ?
+cefc-clapi-reunion_conception_mosaic_architecture-652	 et puis on accède ici.
+cefc-clapi-reunion_conception_mosaic_architecture-2399	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-885	 s'il vous plaît.
+cefc-clapi-visite_guidee_manoir_guide2-1465	 Et là vous me dites
+cefc-clapi-repas_kiwi-482	 cette histoire était loup par contre
+cefc-clapi-reunion_conception_mosaic_architecture-469	 C'est pas très discret.
+cefc-clapi-repas_epinards-276	 on va mettre un petit papier à fond les oeufs
+cefc-clapi-aperitif_pois-801	 Exact.
+cefc-clapi-repas_francais-1213	 d'un école.
+cefc-clapi-reunion_organisation_dh-539	 ...
+cefc-clapi-jeux_video_foot_Lyon-729	 C'est d'accord.
+cefc-clapi-commerce_fromagerie-104	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1395	 c'est aussi l'endroit où tu vas venir bouquiner.
+cefc-clapi-aperitif_glasgow-300	 explosez ça.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-773	 maintenant il ne va plus y en avoir
+cefc-clapi-aperitif_pois-451	 à tous les ans.
+cefc-clapi-visite_guidee_manoir_guide2-1370	 c'est une bibliothèque bibliothèque ou bureau d'études d'ailleurs
+cefc-clapi-reunion_conception_mosaic_architecture-4	 Le projet au niveau du plan mince,
+cefc-clapi-visite_guidee_manoir_guide1-26	 Oui.
+cefc-clapi-reunion_conception_mosaic_architecture-1031	 Et tout ça.
+cefc-clapi-repas_kiwi-414	 il le réanime
+cefc-clapi-reunion_organisation_dh-468	 sous-server en Italie.
+cefc-clapi-visite_guidee_manoir_guide2-402	 Alors, ça aurait pu être décoratif.
+cefc-clapi-aperitif_rupture-793	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-350	 Il est trop beau.
+cefc-clapi-repas_epinards-132	 On fait des belles choses là. Il sent que ça pende.
+cefc-clapi-aperitif_glasgow-1879	 Ah ouais?
+cefc-clapi-repas_francais-1142	 L' Joining House, voilà.
+cefc-clapi-jeux_video_foot_Lyon-592	 Bip.
+cefc-clapi-commerce_fromagerie-2585	 plus cher à son contrat
+cefc-clapi-commerce_fromagerie-2450	 du 27 septembre
+cefc-clapi-repas_kiwi-476	 Ils sont entendus, ils ont commencé à dire
+cefc-clapi-reunion_organisation_dh-562	 tout le monde est en même temps
+cefc-clapi-aperitif_glasgow-2420	 Il y en a un qui a une grosse crosse peluche, vous voyez ?
+cefc-clapi-visite_guidee_manoir_guide2-890	 de chaque côté.
+cefc-clapi-reunion_organisation_dh-106	 Vous avez tous...
+cefc-clapi-aperitif_glasgow-323	 et on comptait descendre pour 8h25, tu vois. À 8h24 !
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-295	 pour l'école, en fait.
+cefc-clapi-repas_francais-146	 Tu as trouvé cette reclue ou pas ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-132	 Oui, ça peut être.
+cefc-clapi-repas_epinards-181	 Comment tu as fait le coup de la question ?
+cefc-clapi-aperitif_chat-28	 Non, non, non, non, non.
+cefc-clapi-repas_kiwi-778	 je trouve ça
+cefc-clapi-repas_francais-1260	 tu fais le poste, tu vois, excellent, je ne sais pas ce que ça veut dire pour elle,
+cefc-clapi-repas_kiwi-580	 Mesdames, je vais sonder mes poulettes.
+cefc-clapi-aperitif_glasgow-1049	 Moi j'avais 3 élèves
+cefc-clapi-repas_kiwi-485	 Tu vas se couvrir
+cefc-clapi-visite_guidee_manoir_guide2-1227	 Une lettre du XVe.
+cefc-clapi-reunion_organisation_dh-38	 au moins
+cefc-clapi-montage_meuble-117	 Après, ils ne peuvent pas mettre des A, des B, des plafonds ?
+cefc-clapi-repas_olives-506	 Nous on perd plus tard que je le vois et on reprend pas une bonne voiture, une bonne voiture
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1351	 simple.
+cefc-clapi-reunion_organisation_dh-964	 permettre de façon extrêmement
+cefc-clapi-aperitif_glasgow-2101	 Il m'écrit en...
+cefc-clapi-aperitif_glasgow-1234	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1767	 Ah, je suis partout.
+cefc-clapi-reunion_conception_mosaic_architecture-2060	 on peut l'agrandir un peu de toute façon.
+cefc-clapi-commerce_fromagerie-1625	 Merci.
+cefc-clapi-aperitif_glasgow-973	 C'est dommage.
+cefc-clapi-repas_francais-1054	 Et comme ça, même si tu n'as même pas chez toi ou quoi,
+cefc-clapi-aperitif_rupture-150	 T'es étonnée par ton truc
+cefc-clapi-repas_kiwi-277	 du coup
+cefc-clapi-commerce_fromagerie-362	 Merci.
+cefc-clapi-aperitif_glasgow-605	 j'ai passé une demi-heure à demander aux gens dans la rue si on pouvait prendre une
+cefc-clapi-repas_francais-947	 ça rend bien
+cefc-clapi-aperitif_chat-670	 les sons qui sont générés dans cette région
+cefc-clapi-repas_olives-796	 C'est bon ?
+cefc-clapi-aperitif_glasgow-305	 Quand vous en êtes arrivés...
+cefc-clapi-reunion_organisation_dh-1251	 Comment se fait-il que notre système de répartition, de description de postes, de répartition de responsabilités n'est pas suffisamment clair pour que les gens sachent ce qui leur revient, ce qui ne leur revient pas comme responsabilité, comme...
+cefc-clapi-commerce_fromagerie-2784	 Et puis ça commence.
+cefc-clapi-jeux_video_foot_Lyon-133	 Ce n'est pas bien.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-826	 S'il vous plaît.
+cefc-clapi-jeux_video_foot_Lyon-844	 ça me donne
+cefc-clapi-repas_olives-877	 T'as les avis?
+cefc-clapi-commerce_fromagerie-2800	 P絨
+cefc-clapi-repas_francais-1023	 Mais comme ça va être lourd de transporter tous ces livres.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-251	 truc à
+cefc-clapi-reunion_organisation_dh-1515	 bons sentiments lumineux que ça donne qu'on peut gagner que
+cefc-clapi-repas_kiwi-1491	 Comment ça gère ça?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-236	 Je me réunis de là.
+cefc-clapi-aperitif_glasgow-2322	 Mais je vais rester un peu le week-end pour travailler. Alors si le week-end...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-779	 Ajax multi-visage
+cefc-clapi-aperitif_glasgow-1841	 J'ai bien suivi. Bon, à la fin, j'étais débordée, comme tout le temps.
+cefc-clapi-montage_meuble-282	 appuyer parce que sinon ça ne coupe pas le bois
+cefc-clapi-jeux_video_foot_Lyon-297	 Je te fous de moi. Non, je te t'aime.
+cefc-clapi-visite_guidee_manoir_guide2-949	 la surenchère, jusque dans les années
+cefc-clapi-jeux_video_foot_Lyon-285	 Lui,
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1309	 Oui, c'est bien moi oui.
+cefc-clapi-reunion_conception_mosaic_architecture-1028	 non c'est pas
+cefc-clapi-montage_meuble-93	 Voilà, tu le sais,
+cefc-clapi-repas_francais-177	 Elle était cochée.
+cefc-clapi-visite_guidee_manoir_guide1-68	 mais
+cefc-clapi-aperitif_glasgow-503	 Très bien.
+cefc-clapi-repas_francais-263	 C'est bon, c'est bon.
+cefc-clapi-aperitif_glasgow-1786	 Ouais Moi même moi aussi j'ai beaucoup
+cefc-clapi-jeux_video_foot_Lyon-1932	 Sous-titres par Jérémy Diaz
+cefc-clapi-visite_guidee_manoir_guide2-518	 de sa journée.
+cefc-clapi-reunion_organisation_dh-1340	 comme ils les ont gardés un peu plus longtemps pour essayer de sortir.
+cefc-clapi-aperitif_chat-638	 Ouais, ouais.
+cefc-clapi-repas_francais-430	 et tout ça.
+cefc-clapi-repas_francais-1254	 Elle me dit, non, non, il ne vaut mieux pas.
+cefc-clapi-visite_guidee_manoir_guide1-467	 viennent du lot, vous ne connaissez pas tout ça.
+cefc-clapi-aperitif_pois-413	 ils doivent terminer les dossiers et puis après
+cefc-clapi-visite_guidee_manoir_guide1-276	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-575	 Merci.
+cefc-clapi-montage_meuble-329	 vraiment j'ai forcé allez-y
+cefc-clapi-jeux_video_foot_Lyon-1220	 Je veux y arriver.
+cefc-clapi-jeux_video_foot_Lyon-391	 à l'heure de l'heure.
+cefc-clapi-aperitif_rupture-355	 parce que j'ai un moment
+cefc-clapi-aperitif_chat-289	 Et toi tu t'imagines, toi, te laisser ton appartement à un inconnu, à un étranger,
+cefc-clapi-reunion_conception_mosaic_architecture-2784	 pendant que
+cefc-clapi-aperitif_pois-813	 normalement non
+cefc-clapi-reunion_conception_mosaic_architecture-588	 les jacuzzis et autres...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-452	 Eh ben non, j'ai plus de jambon
+cefc-clapi-aperitif_rupture-97	 qui nous
+cefc-clapi-repas_olives-437	 Et ma famille
+cefc-clapi-reunion_organisation_dh-1920	 Jusqu'au diable.
+cefc-clapi-visite_guidee_manoir_guide2-447	 dans les émissions.
+cefc-clapi-visite_guidee_manoir_guide1-125	 il n'a pas eu d'enfant légitime
+cefc-clapi-reunion_conception_mosaic_architecture-305	 C'est un strict minimum qui serait souhaitable de pousser un peu si possible.
+cefc-clapi-jeux_video_foot_Lyon-1719	 je suis dans Val-et-Couille
+cefc-clapi-aperitif_glasgow-332	 le bon accent de Sky tu vois ici là
+cefc-clapi-commerce_fromagerie-746	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-740	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1714	 et puis tu vois,
+cefc-clapi-repas_olives-926	 qui ne sont pas taillées sauf les week-ends
+cefc-clapi-reunion_organisation_dh-2179	 Donc je ferai passer, vous trouverez sur vos mails, le coup de feuilleur.
+cefc-clapi-reunion_organisation_dh-688	 pour arriver à dire...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-586	 Merci.
+cefc-clapi-commerce_fromagerie-1750	 Moi je me disais
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1111	 Bonne journée, Albert.
+cefc-clapi-reunion_conception_mosaic_architecture-1957	 où on va retrouver quelque chose.
+cefc-clapi-aperitif_glasgow-1790	 Je ne sais pas.
+cefc-clapi-commerce_fromagerie-490	 non-soujour.
+cefc-clapi-aperitif_glasgow-424	 Et finalement, maintenant, il y en a qui ont envie de partir en Espagne, finalement.
+cefc-clapi-commerce_fromagerie-236	 C'est ça.
+cefc-clapi-repas_francais-1077	 C'est mes jours.
+cefc-clapi-visite_guidee_manoir_guide2-356	 Alors, si je vous dis publicité, Bretagne, peut-être qu'il y a un monsieur, vous avez un épiphanyme.
+cefc-clapi-commerce_fromagerie-284	 Donc il faut s'appuyer.
+cefc-clapi-visite_guidee_manoir_guide1-208	 Là nous avons nos yeux
+cefc-clapi-aperitif_pois-764	 C'est le dernier !
+cefc-clapi-commerce_fromagerie-2382	 On est équipé en fait.
+cefc-clapi-reunion_organisation_dh-1174	 c'est celui qu'ils ont connu,
+cefc-clapi-visite_guidee_manoir_guide1-29	 vous m'arrêtez, vous me soupez.
+cefc-clapi-visite_guidee_manoir_guide2-1205	 un humidificateur
+cefc-clapi-reunion_organisation_dh-465	 C'est une jolie métaphore, par rapport au chaos.
+cefc-clapi-repas_kiwi-519	 ...
+cefc-clapi-repas_kiwi-774	 il est prune comme méridot et
+cefc-clapi-reunion_conception_mosaic_architecture-2719	 Ce que j'aime bien, en fait,
+cefc-clapi-repas_olives-30	
+cefc-clapi-repas_kiwi-629	 peut-être que tu dis
+cefc-clapi-repas_francais-524	 Et genre là il veut absolument le faire demain ce soir quoi
+cefc-clapi-repas_kiwi-395	 l'entretien,
+cefc-clapi-visite_guidee_manoir_guide2-1468	 c'est celui des comtes qui habitaient là avant, sauf que quand M. Astor investit les lieux, il le convertit en vulgaire
+cefc-clapi-repas_kiwi-495	 les lignes
+cefc-clapi-repas_francais-534	 Render tout seul avec tous les autres idem
+cefc-clapi-repas_olives-93	 Moi aussi, ma soeur elle y arrive.
+cefc-clapi-aperitif_chat-676	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2811	 Je pense que c'est ça.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-434	 des montants par semaine.
+cefc-clapi-repas_francais-521	 Alors là en plus le gros foutage de gueule quoi
+cefc-clapi-repas_kiwi-1477	 ils ont vraiment beaucoup de trucs à faire
+cefc-clapi-aperitif_chat-195	 le fameux fin de truc
+cefc-clapi-commerce_fromagerie-1459	 Merci.
+cefc-clapi-repas_kiwi-346	 Cette semaine, elle nous a appelés pour nous parler de la vie.
+cefc-clapi-reunion_organisation_dh-827	 des coûts organismiques.
+cefc-clapi-commerce_fromagerie-1672	 Moi, je ne connais personne.
+cefc-clapi-commerce_fromagerie-416	 Oui.
+cefc-clapi-reunion_organisation_dh-523	 et comment nous, on peut apporter notre petite pierre dedans.
+cefc-clapi-reunion_organisation_dh-618	 donc la question c'est comment cette conscience nécessaire
+cefc-clapi-reunion_conception_mosaic_architecture-2155	 Ce sera dans ce sens-là.
+cefc-clapi-jeux_video_foot_Lyon-1061	 en vie
+cefc-clapi-reunion_organisation_dh-1400	 voyons l'Europe qui est le continent qui a la plus grande ancienneté et donc qui devrait relativiser
+cefc-clapi-repas_francais-1237	 sur les entretiens c'était clair que je lui donnais pas
+cefc-clapi-commerce_fromagerie-2288	 C'est bon ?
+cefc-clapi-reunion_organisation_dh-1610	 Merci.
+cefc-clapi-aperitif_rupture-524_2	 J'ai hésité entre le d'accélérer.
+cefc-clapi-repas_kiwi-315	 en plus le logiciel laisse tomber, en plus il
+cefc-clapi-reunion_conception_mosaic_architecture-2444	 Que penses-tu ?
+cefc-clapi-commerce_fromagerie-2599	 C'est la...
+cefc-clapi-visite_guidee_manoir_guide2-288	 Voilà, alors tout à l'emprunt vous avez quelques portraits de famille.
+cefc-clapi-reunion_organisation_dh-2011	
+cefc-clapi-reunion_conception_mosaic_architecture-1758	 c'est-à-dire que les gens se soient là
+cefc-clapi-repas_epinards-388	 Amen.
+cefc-clapi-reunion_conception_mosaic_architecture-733	 Mais c'est des champs particuliers, ça ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-626	 7h30
+cefc-clapi-visite_guidee_manoir_guide1-267	 sont les chambres de monsieur et madame
+cefc-clapi-repas_epinards-130	 Maintenant, il faut bien des petites lames qui se dirigent à droite à gauche, tu sais, quelque chose de mieux qu'un néon. Un néon, c'est vraiment...
+cefc-clapi-repas_francais-130	 Mais elle le fait à son école.
+cefc-clapi-reunion_organisation_dh-647	 Si je m'énerve à chaque fois qu'on me dit une chose, je vais m'énerver avec beaucoup, beaucoup de gens et gâcher beaucoup, beaucoup de relations jusqu'à ce que je comprenne que peut-être je peux faire autrement que m'énerver. Alors vous pouvez dire...
+cefc-clapi-aperitif_rupture-507	 qu'il y a du sucre, du coude.
+cefc-clapi-visite_guidee_manoir_guide2-989	 C'est l'énorme commerce qu'on peut faire avec l'Orient, ou moins avec le monde entier même, puisque à l'Orient, qui s'écrivait à l'origine en deux mots, L'Orient, on a un très important comptoir de la compagnie des hommes.
+cefc-clapi-aperitif_rupture-759	 C'est pas Neverland ?
+cefc-clapi-repas_kiwi-1368	 et c'est quoi?
+cefc-clapi-repas_francais-346	 Et des gens comme ça, je pourrais jamais couper les liens avec eux parce que c'était
+cefc-clapi-commerce_fromagerie-654	 Non.
+cefc-clapi-reunion_conception_mosaic_architecture-909	 Bonne fin de semaine.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-55	 Je suis toute la salle de suprême.
+cefc-clapi-reunion_conception_mosaic_architecture-596	 de son tien.
+cefc-clapi-aperitif_chat-365	 C'était un petit bélard en fait ?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1123	 à Poudam.
+cefc-clapi-reunion_organisation_dh-1842	 Merci.
+cefc-clapi-aperitif_glasgow-461	 en trois tours
+cefc-clapi-aperitif_glasgow-1646	 tu peux pas partir comme là on est parti genre
+cefc-clapi-aperitif_glasgow-965	 Je pense que ça va plus loin pour la semaine.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1080	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-580	 Vous rentrez c'est ça ?
+cefc-clapi-jeux_video_foot_Lyon-1267	 Merci.
+cefc-clapi-repas_olives-118	 Ligne B, Charpen, Jean Massé.
+cefc-clapi-reunion_organisation_dh-1987	 là, ce qu'on va chercher, c'est de chercher à chaque fois à inviter à faire un parcours chaque jour et pendant les trois jours. C'est-à-dire qu'on attend la rencontre, on attend des appels d'éducation,
+cefc-clapi-reunion_organisation_dh-440	 une métaphore
+cefc-clapi-repas_francais-283	 le 6 mai, c'est qui,
+cefc-clapi-repas_kiwi-1148	 rire
+cefc-clapi-commerce_fromagerie-2200	 le rendu que tu veux avoir
+cefc-clapi-aperitif_pois-352	 je ne sais pas, il doit finir un dossier, un machin comme ça,
+cefc-clapi-reunion_conception_mosaic_architecture-2670	 on a un coquillier scolaire.
+cefc-clapi-reunion_organisation_dh-1589	 et donc instaurer des jeux comme ça qui nous obligent à aller vers l'autre
+cefc-clapi-aperitif_rupture-984	 Si il lui avait plu, il disait début.
+cefc-clapi-reunion_conception_mosaic_architecture-23	 c'est
+cefc-clapi-aperitif_chat-672	 mais c'est pas pour ça qu'il peut vraiment distinguer
+cefc-clapi-visite_guidee_manoir_guide2-1406	 Comment il s'appelle ? Celui-là... Zola...
+cefc-clapi-repas_francais-853	 C'est tout à fait possible.
+cefc-clapi-commerce_fromagerie-1540	 Merci.
+cefc-clapi-repas_kiwi-272	 Voilà.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-515	 Oui.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-276	 18,04.
+cefc-clapi-reunion_organisation_dh-1009	 Oui, j'ai oublié, mais bien que la clé est en dessous.
+cefc-clapi-visite_guidee_manoir_guide2-1051	 Merci.
+cefc-clapi-reunion_organisation_dh-276	 c'est une anti-peur
+cefc-clapi-repas_francais-1205	 Ben, on a cru...
+cefc-clapi-reunion_conception_mosaic_architecture-26	 en ce moment.
+cefc-clapi-reunion_conception_mosaic_architecture-1952	 Oui, parce que tu as dessiné fente, fente,
+cefc-clapi-commerce_fromagerie-2755	 Bon à l'occasion on fera un truck avec un fromage suédois aussi.
+cefc-clapi-repas_olives-618	 Oh...
+cefc-clapi-commerce_fromagerie-291	 ...
+cefc-clapi-aperitif_chat-108	 Merci.
+cefc-clapi-repas_epinards-346	 les gens ne sont même pas moins massifs
+cefc-clapi-reunion_organisation_dh-527	 Est-ce qu'il faut faire peur ?
+cefc-clapi-aperitif_chat-426_1	 Les filles elles aiment pas
+cefc-clapi-repas_francais-351	 les victoires en ce moment.
+cefc-clapi-aperitif_glasgow-1656	 J'avais une famille en fait,
+cefc-clapi-aperitif_rupture-200	 On va donner un.
+cefc-clapi-commerce_fromagerie-794	 Pardonnez.
+cefc-clapi-reunion_conception_mosaic_architecture-2429	 à part le plastique
+cefc-clapi-visite_guidee_manoir_guide1-876	 Pardon, je reprends.
+cefc-clapi-repas_olives-753	 Je savais que...
+cefc-clapi-aperitif_glasgow-2067	 Merci.
+cefc-clapi-repas_kiwi-1484	 ils sont super bien mais
+cefc-clapi-aperitif_glasgow-2037	 Et un jour j'ai demandé parce que moi je ne pensais pas que c'était français
+cefc-clapi-aperitif_rupture-1305	 Merci.
+cefc-clapi-commerce_fromagerie-1014	 Il est capable.
+cefc-clapi-reunion_conception_mosaic_architecture-2249	 c'était sympa un peu dans cette salle parce qu'elle est enterrée, c'est une moitié jolie quand même
+cefc-clapi-reunion_organisation_dh-1598	 c'est-à-dire je suis à l'aîné, quelque part,
+cefc-clapi-repas_kiwi-666	 Après, on n'est jamais satisfait de ce qu'on fait de même.
+cefc-clapi-commerce_fromagerie-1305	 Bricade de chèvre.
+cefc-clapi-reunion_conception_mosaic_architecture-2310	 s'il fallait pas en fait limiter les fonctions qu'on a à caser là
+cefc-clapi-repas_francais-629	 Tu vois en plus les gens Il y en a quand même vachement que ça inquiète Le Liban tu vois
+cefc-clapi-repas_kiwi-374	 Exactement, ma maman à la fin de l'année, elle était toute contente de se dire, ben
+cefc-clapi-visite_guidee_manoir_guide2-326	 Alors, cette pièce est celle qui témoigne le plus du XVIe siècle.
+cefc-clapi-montage_meuble-41	 Alors, bonjour, vous allez monter la table.
+cefc-clapi-commerce_fromagerie-926	 Là, il y a un super reportage sur les champignons.
+cefc-clapi-aperitif_pois-347	 Bon...
+cefc-clapi-reunion_organisation_dh-250	 et de justement insouster sur les alternatives du cas où on croit de... Voilà,
+cefc-clapi-reunion_conception_mosaic_architecture-2453	 gagner sur l'arrière de ici pour le vestiaire
+cefc-clapi-repas_epinards-185_1	 C'est long.
+cefc-clapi-commerce_fromagerie-2490	 Souvent les enfants, c'est bien le camembert, le reblochon, le grimoire, le cassis.
+cefc-clapi-aperitif_rupture-703	 Il y a deux ans.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-118	 donc
+cefc-clapi-montage_meuble-421	 Vous serez ?
+cefc-clapi-repas_kiwi-369	 dans le tas.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-323	 C'est toi, toi !
+cefc-clapi-reunion_conception_mosaic_architecture-2746	 – Sous-titrage FR –
+cefc-clapi-reunion_conception_mosaic_architecture-1703	 avec des hommes
+cefc-clapi-commerce_fromagerie-797	 Toutes les formes comme ça.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1255	 Oui, oui, c'est si j'ai eu oui.
+cefc-clapi-repas_kiwi-925	 ou toute la suite
+cefc-clapi-commerce_fromagerie-1144	 Oui, un peu chouette.
+cefc-clapi-reunion_organisation_dh-1345_2	 C'est-à-dire qu'ils étaient dans un tel stress, dans une telle impossibilité, que tout le monde s'excitait et qu'un rien faisait tout le temps tout déraper.
+cefc-clapi-aperitif_pois-278	 à compte super long.
+cefc-clapi-reunion_conception_mosaic_architecture-1344	 donc on va forcément venir beaucoup plus par là parce qu'il va vouloir avoir une lingerie
+cefc-clapi-repas_kiwi-1251	 On ne s'arrête pas ici.
+cefc-clapi-reunion_conception_mosaic_architecture-2762	 C'est tout.
+cefc-clapi-visite_guidee_manoir_guide1-294	 Alors effectivement le lit était fait pour y dormir.
+cefc-clapi-commerce_fromagerie-2624_1	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2061	 C'est pas... Non.
+cefc-clapi-reunion_organisation_dh-645	 ce problème sans plus
+cefc-clapi-commerce_fromagerie-1701	 tout, c'est ça, c'est de rassembler
+cefc-clapi-jeux_video_foot_Lyon-2072	 fin fin ou
+cefc-clapi-aperitif_rupture-584	 il s'en va
+cefc-clapi-visite_guidee_manoir_guide1-639	 Vous avez des cernes là.
+cefc-clapi-repas_kiwi-1348	 qui me dit qu'elle a
+cefc-clapi-reunion_organisation_dh-901	 et ça a d'être...
+cefc-clapi-repas_francais-364	 ceux qui ne sont pas dans la même ville que toi,
+cefc-clapi-repas_francais-1140	 du coup, moi, j'en peux des meilleurs.
+cefc-clapi-aperitif_rupture-706	 Il faut dire que c'était tellement bon.
+cefc-clapi-montage_meuble-173	 qu'à quoi je vais
+cefc-clapi-jeux_video_foot_Lyon-1125	 je ne sais pas si
+cefc-clapi-aperitif_chat-639	 parce que par exemple dans la linguistique on voit peut-être que quand
+cefc-clapi-jeux_video_foot_Lyon-620	 Ça fait un jeune monsieur, moi.
+cefc-clapi-aperitif_chat-31	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1245	 ça c'est le sous-sol
+cefc-clapi-reunion_conception_mosaic_architecture-2219	 et propre.
+cefc-clapi-commerce_fromagerie-185	 à l'église.
+cefc-clapi-commerce_fromagerie-535	 C'est difficile.
+cefc-clapi-repas_epinards-11	 j'ai des choses...
+cefc-clapi-visite_guidee_manoir_guide2-798	 cette fois, faites
+cefc-clapi-aperitif_rupture-566	 Merci.
+cefc-clapi-aperitif_rupture-1237	 On n'en a plus d'ailleurs, est-ce que c'est ça ?
+cefc-clapi-visite_guidee_manoir_guide1-333	 ça rappelle ton pays la redécouverte de
+cefc-clapi-aperitif_glasgow-726	 et on vient de vous envoyer à tout.
+cefc-clapi-jeux_video_foot_Lyon-1306	 C'est ça.
+cefc-clapi-reunion_organisation_dh-750	 pour que
+cefc-clapi-repas_kiwi-1182	 Tu voulais pas faire mes maternelles ?
+cefc-clapi-reunion_organisation_dh-632	 on souffrait d'un accident grave ou d'une maladie,
+cefc-clapi-repas_kiwi-971	 Merci.
+cefc-clapi-aperitif_glasgow-1457	 Et c'est elle qui gère son truc, l'école.
+cefc-clapi-commerce_fromagerie-663_2	 Vous l'entendez quand demain ? Ce soir peut-être.
+cefc-clapi-jeux_video_foot_Lyon-533	 sur le jour de l'Aigou.
+cefc-clapi-commerce_fromagerie-2770	 tu comprends pas le con ?
+cefc-clapi-montage_meuble-111	 Salut tout le monde !
+cefc-clapi-repas_francais-532	 qui est comme là.
+cefc-clapi-aperitif_glasgow-2097	 ...
+cefc-clapi-reunion_organisation_dh-1771	 quelque chose d'incroyable sans avoir les mêmes idées au départ. Il y avait de
+cefc-clapi-jeux_video_foot_Lyon-1662	 ça va se taper avec le deuxième
+cefc-clapi-repas_olives-456	 Warning
+cefc-clapi-reunion_conception_mosaic_architecture-2147	 pas qu'on descende,
+cefc-clapi-repas_francais-951	 Je me suis dit attends, tes gros pixels là, tu...
+cefc-clapi-aperitif_glasgow-1571	 Oui, oui, oui.
+cefc-clapi-visite_guidee_manoir_guide1-610	 Merci beaucoup.
+cefc-clapi-reunion_organisation_dh-513	 il y a ces différents degrés de prise de conscience qui peuvent exister
+cefc-clapi-aperitif_chat-171	 comme ça.
+cefc-clapi-reunion_organisation_dh-934	 Choisissons notre monde, plutôt que de le subir.
+cefc-clapi-reunion_conception_mosaic_architecture-355	 et il va y revenir dessus
+cefc-clapi-aperitif_rupture-109	 de son nom oui
+cefc-clapi-visite_guidee_manoir_guide2-834	 Parce que les astores ont été collectionnés en bas et on a pris toujours
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-3	 non
+cefc-clapi-reunion_organisation_dh-1595	 Après, sans avoir...
+cefc-clapi-montage_meuble-387	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-357	 Je vous le prie.
+cefc-clapi-aperitif_glasgow-2118	 mais celle qui m'avait dit je pense venir à Noël
+cefc-clapi-jeux_video_foot_Lyon-264	 Rires
+cefc-clapi-reunion_conception_mosaic_architecture-1644	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-346	 sauf salle de repos et repas
+cefc-clapi-repas_olives-617	 Un bon repas de vainqueur.
+cefc-clapi-commerce_fromagerie-2548	 Bonjour Monsieur
+cefc-clapi-repas_kiwi-653	 Merci.
+cefc-clapi-repas_epinards-121	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-674_1	 ...
+cefc-clapi-visite_guidee_manoir_guide1-15	 Je dis qu'il ne fallait absolument qu'à Noël, je découvre le marché de Noël.
+cefc-clapi-commerce_fromagerie-2847	 c'est quand on vous...
+cefc-clapi-visite_guidee_manoir_guide2-888	 Donc, il signifie par là, juste l'amour éternel qu'il porte à sa femme, tout simplement.
+cefc-clapi-commerce_fromagerie-2178	 ...
+cefc-clapi-reunion_organisation_dh-175	 pour vous aider.
+cefc-clapi-aperitif_glasgow-840	 ça va être marrant mais je pense que tu vas y arriver évidemment
+cefc-clapi-reunion_organisation_dh-1774	 Alors tu vois, ce genre d'exercice, quand on dépousse vraiment jusqu'au bout, exactement comme vous l'avez fait.
+cefc-clapi-reunion_conception_mosaic_architecture-2483	 maintenir des sanitaires-restaurants en nombre suffisant
+cefc-clapi-commerce_fromagerie-1025	 pour la participation.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-735	 J'ai eu le mien, j'avais nettoyé en gel, j'avais la jaque.
+cefc-clapi-montage_meuble-313	 Au revoir.
+cefc-clapi-visite_guidee_manoir_guide1-578	 C'est une bonne soirée.
+cefc-clapi-visite_guidee_manoir_guide2-1168	 on reconnaît bien l'influence sur
+cefc-clapi-reunion_conception_mosaic_architecture-2764	 confort.
+cefc-clapi-commerce_fromagerie-2919	 Voilà la nouvelle c'est qu'il n'y a plus de haise
+cefc-clapi-repas_francais-303	 Regarde les profs qu'il y a aussi.
+cefc-clapi-visite_guidee_manoir_guide2-15	 Voilà, il y a quand même un...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-731	 Moi, je ne sais rien si je marque...
+cefc-clapi-aperitif_glasgow-816	 soirée décalée
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-384	 Elle était dans une意思 fou.
+cefc-clapi-aperitif_pois-712	 je suis pas là
+cefc-clapi-commerce_fromagerie-2438	 Merci.
+cefc-clapi-reunion_organisation_dh-459	 genre de me mettre de côté
+cefc-clapi-commerce_fromagerie-1362	 Oui, il y en a plein.
+cefc-clapi-reunion_organisation_dh-1660	 Sous-titrage Société Radio-Canada
+cefc-clapi-aperitif_glasgow-1310	 Ça va faire trop trop cher.
+cefc-clapi-montage_meuble-45	 moi, c'est ça.
+cefc-clapi-aperitif_glasgow-2047	 Et puis, il m'a envoyé un message, un mail, que je n'ai pas trop compris d'ailleurs.
+cefc-clapi-reunion_conception_mosaic_architecture-2325	 petit
+cefc-clapi-aperitif_chat-882	 on a un ami qui lui
+cefc-clapi-visite_guidee_manoir_guide2-236	 à un motard de fond la ville qui s'appelle Alou.
+cefc-clapi-reunion_organisation_dh-1847_1	 Merci.
+cefc-clapi-aperitif_rupture-836_2	 Au revoir.
+cefc-clapi-aperitif_chat-212	 Merci.
+cefc-clapi-commerce_fromagerie-311	 en allait plus loin dans un champ.
+cefc-clapi-aperitif_rupture-1224	 que...
+cefc-clapi-aperitif_rupture-956	 Moi je crois que c'était genre comme ma soeur
+cefc-clapi-jeux_video_foot_Lyon-791	 l'esprit
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1280	 Merci.
+cefc-clapi-commerce_fromagerie-2140	 Qu'est-ce que je mets là-dessus ?
+cefc-clapi-repas_kiwi-1318	 Oui.
+cefc-clapi-reunion_organisation_dh-429	 à un moment le tour les interdits vocaux.
+cefc-clapi-repas_kiwi-468	 Je crois que c'est une ou deux semaines après sa rentrée d'aide.
+cefc-clapi-commerce_fromagerie-3067	 Merci.
+cefc-clapi-aperitif_chat-1067	 en fait, on va y parler uniquement de la localisation
+cefc-clapi-reunion_conception_mosaic_architecture-1114	 Il est forcément de ce côté-là, l'escalier de secours. Parce que si on le met là, on perd des chambres.
+cefc-clapi-aperitif_rupture-919	 C'est pas normal, mais c'est pas de dire...
+cefc-clapi-repas_francais-1071	 Donc du coup elle m'a dit si on a un autre truc je vous rappellerai
+cefc-clapi-jeux_video_foot_Lyon-469	 C'est pas bon.
+cefc-clapi-repas_kiwi-514	 Salut tout le monde
+cefc-clapi-jeux_video_foot_Lyon-472	 Dernier, je ne peux pas le tirer.
+cefc-clapi-jeux_video_foot_Lyon-500	 C'est comme si il y avait
+cefc-clapi-visite_guidee_manoir_guide2-821	 Bon...
+cefc-clapi-reunion_conception_mosaic_architecture-2133	 Pour être plus enceinte, on repose.
+cefc-clapi-repas_kiwi-739	 Alors, du coup, il ne peut plus toucher.
+cefc-clapi-repas_kiwi-1176	 pour
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-167	 Merci à vous.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-82	 C'est tout bon. Merci bien.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-464	 Bon, tu veux un micro, pas ? Hein ?
+cefc-clapi-reunion_organisation_dh-1891	 et les capacités relativement
+cefc-clapi-repas_francais-1117	 tu trouves.
+cefc-clapi-commerce_fromagerie-637	 sur le frigo, qu'est-ce que vous en pensez?
+cefc-clapi-aperitif_rupture-750	 C'est le chat parce que ça la calme ?
+cefc-clapi-reunion_conception_mosaic_architecture-431	 Là-dessus, tu peux peut-être raconter ce qu'avait dit sur le fitness et l'endroit. Voilà, des films.
+cefc-clapi-aperitif_rupture-142	 Vous ne savez quoi en fait. Rapport d'étonnement.
+cefc-clapi-repas_epinards-299	 Un petit suisse peut-être ?
+cefc-clapi-reunion_conception_mosaic_architecture-315	 Tu sais, les problèmes de...
+cefc-clapi-commerce_fromagerie-194	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1609	 Oui, je suis en mire.
+cefc-clapi-jeux_video_foot_Lyon-1462	 à l'aide.
+cefc-clapi-reunion_organisation_dh-1546	 Un atelier avec comme objet aller au-delà de sa pensée.
+cefc-clapi-reunion_conception_mosaic_architecture-849	 et la question
+cefc-clapi-aperitif_glasgow-1996	 Mais sur les mots et le vocabulaire, j'essaie de bien lui donner des bons mots.
+cefc-clapi-commerce_fromagerie-351	 ce qu'on fait c'est qu'on lui embêtra sur le tel sujet
+cefc-clapi-aperitif_rupture-425	 Désolée, c'est vraiment très drôle.
+cefc-clapi-jeux_video_foot_Lyon-95	 de la forme. Encore une fois, on va le voir ici.
+cefc-clapi-visite_guidee_manoir_guide1-567	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-1457	 On leur restitue une zone fonction d'accueil et son petit bureau, comme ils le souhaitent.
+cefc-clapi-reunion_organisation_dh-558	 mais on est toujours dans un modèle d'organisation sociale, politique,
+cefc-clapi-reunion_conception_mosaic_architecture-1116	 On est des calvins.
+cefc-clapi-commerce_fromagerie-2812	 Le 2 octobre,
+cefc-clapi-repas_francais-1004	 vraiment, c'est,
+cefc-clapi-aperitif_glasgow-1807	 Il y a plus comme ça.
+cefc-clapi-repas_francais-1104	 Oh non
+cefc-clapi-aperitif_rupture-777	 C'est du cuveur que t'as servi
+cefc-clapi-reunion_conception_mosaic_architecture-1596	 Ça va bien.
+cefc-clapi-repas_kiwi-1072	 Alors le pouf qui a marre, ça m'a mis au boulot.
+cefc-clapi-aperitif_chat-315	 Non mais tu peux y aller en train, il y a aussi le français, il y a aussi...
+cefc-clapi-aperitif_pois-394	 tout, j'étais vraiment en train de le trouver
+cefc-clapi-commerce_fromagerie-246	 Merci.
+cefc-clapi-reunion_organisation_dh-1134	 Je vais aller le laisser.
+cefc-clapi-repas_olives-208	 Putain, elle a eu une fête.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-822	 et faire ce qu'il faut.
+cefc-clapi-commerce_fromagerie-18	 Ouais, je ne sais peut-être pas.
+cefc-clapi-commerce_fromagerie-2994	 tu veux dire celui qui l'a et au bout de l'âme ? C'était ce que je voulais.
+cefc-clapi-aperitif_rupture-753	 ça ?
+cefc-clapi-commerce_fromagerie-1386	 Donc ils l'ont fait le plan.
+cefc-clapi-repas_olives-951	 Merci.
+cefc-clapi-repas_kiwi-248	 Donc si tu veux un style de
+cefc-clapi-visite_guidee_manoir_guide2-520	 Si, si, si. Vous avez tout à l'exemple. Tout. Et je vous dis, elle ne tolérait pas d'être...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-248	 avec une mouche avec un fond de ménage.
+cefc-clapi-commerce_fromagerie-1979	 Voilà, ce que je voulais regarder, c'est qu'est-ce qu'il filmait.
+cefc-clapi-repas_olives-687	 j'ai pas dit ça
+cefc-clapi-reunion_conception_mosaic_architecture-908	 Bonne fin de semaine.
+cefc-clapi-aperitif_rupture-710	 que c'est si tôt à l'été
+cefc-clapi-aperitif_glasgow-1503	 Et tu as les explications. Oui, je l'ai fait.
+cefc-clapi-aperitif_glasgow-2200	 pour manger, et après ça s'enchaînait.
+cefc-clapi-jeux_video_foot_Lyon-2033	 ça me fout de la main les cartons.
+cefc-clapi-reunion_conception_mosaic_architecture-1345	 on va avoir notre escalier
+cefc-clapi-repas_francais-501	 Je suis en train de sortir.
+cefc-clapi-repas_kiwi-46	 Ah ouais
+cefc-clapi-aperitif_glasgow-954	 Merci.
+cefc-clapi-repas_kiwi-1146	 et bien
+cefc-clapi-aperitif_rupture-1117	 Ça ronge, ça ronge, ça ronge.
+cefc-clapi-reunion_conception_mosaic_architecture-1214	 Merci.
+cefc-clapi-aperitif_glasgow-2309	 Merci.
+cefc-clapi-commerce_fromagerie-2123	 Oui, bien.
+cefc-clapi-reunion_conception_mosaic_architecture-1689	 Tu la doutes trop.
+cefc-clapi-commerce_fromagerie-3074	 Merci.
+cefc-clapi-repas_francais-774	 Ah oui il est mort !
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-644	 s'il change l'année prochaine, s'il change ses horaires.
+cefc-clapi-repas_olives-508	 Tu te rapproches des chevrailles, oui.
+cefc-clapi-repas_francais-762	 C'était une bonne phrase qui ne voulait rien dire.
+cefc-clapi-jeux_video_foot_Lyon-1592	 au cours
+cefc-clapi-jeux_video_foot_Lyon-514	 la poisson ?
+cefc-clapi-commerce_fromagerie-2059	 au monde.
+cefc-clapi-jeux_video_foot_Lyon-2093	 en seconde.
+cefc-clapi-reunion_conception_mosaic_architecture-1080	 Et de toute façon, c'est trop petit pour être un bar, ça.
+cefc-clapi-repas_epinards-353	 Je t'ai pas dit
+cefc-clapi-aperitif_glasgow-1936	 mais c'est clair ça te ouais voilà
+cefc-clapi-commerce_fromagerie-446	 celui qui marche dans la naissance des gens
+cefc-clapi-aperitif_rupture-610	 un peu sophistiqué et tout sympathique
+cefc-clapi-aperitif_chat-811	 au contrôle
+cefc-clapi-repas_francais-585	 Mes problèmes, c'est que je pouvais pas l'envoyer d'ici, parce que le scan était trop lourd.
+cefc-clapi-repas_olives-106	 jusqu'à
+cefc-clapi-repas_francais-1120	 et tout le monde nous dit aussi qu'il faudrait que j'attende
+cefc-clapi-repas_olives-551	 C'était grand ce reportage
+cefc-clapi-jeux_video_foot_Lyon-1690	 Non, t'es juste là.
+cefc-clapi-repas_epinards-415	 Amen.
+cefc-clapi-jeux_video_foot_Lyon-1580	 je vous dis
+cefc-clapi-commerce_fromagerie-451	 Merci.
+cefc-clapi-commerce_fromagerie-102	 Comment ?
+cefc-clapi-reunion_organisation_dh-1433	 Merci.
+cefc-clapi-aperitif_chat-665	 les langues culturales
+cefc-clapi-reunion_conception_mosaic_architecture-229	 D'accord.
+cefc-clapi-reunion_organisation_dh-1486	 Amen.
+cefc-clapi-reunion_organisation_dh-1752	 je trouve ça génial.
+cefc-clapi-aperitif_chat-711	 Mais c'est des trucs passionnants
+cefc-clapi-visite_guidee_manoir_guide2-201	 Voilà. Et donc, il y a des petites petites villages dans les marques.
+cefc-clapi-commerce_fromagerie-160	 On est jusqu'à Chumar.
+cefc-clapi-repas_kiwi-1236	 mais ouais
+cefc-clapi-montage_meuble-364	 Ah non parce que ça c'est bon carrément.
+cefc-clapi-visite_guidee_manoir_guide1-448	 tous ces meubles là, ils sont bien dans une zone
+cefc-clapi-aperitif_chat-812	 en Asie aussi tu vois
+cefc-clapi-reunion_organisation_dh-486	 Oui, animaliste riche.
+cefc-clapi-repas_olives-765	 On est pas là que je fasse.
+cefc-clapi-reunion_organisation_dh-1841	 C'est une façon de faire que le grand papier, tout le temps qu'on est dans le parc, s'adapte.
+cefc-clapi-repas_olives-1013	 et
+cefc-clapi-repas_olives-612	 c'est drôle
+cefc-clapi-reunion_conception_mosaic_architecture-48	 sur le mur.
+cefc-clapi-commerce_fromagerie-485	 Merci.
+cefc-clapi-aperitif_chat-440	 Merci.
+cefc-clapi-aperitif_glasgow-44	 Merci.
+cefc-clapi-aperitif_glasgow-1522	 Bon, en même temps, c'est comme en français.
+cefc-clapi-aperitif_glasgow-807	 à Rome.
+cefc-clapi-repas_kiwi-332	 même c'est à dire sans formateur avec elle
+cefc-clapi-repas_francais-948	 mais le seul truc c'est que la photo a des gros pixels quoi
+cefc-clapi-reunion_conception_mosaic_architecture-786	 il veut qu'une salle
+cefc-clapi-aperitif_chat-247	 Oui, on le connait.
+cefc-clapi-commerce_fromagerie-1406	 J'avais oublié
+cefc-clapi-commerce_fromagerie-1070	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-90	 ils veulent 60 personnes qui puissent débarquer et qui puissent être dans cet espace-là.
+cefc-clapi-reunion_conception_mosaic_architecture-1404	 Donc,
+cefc-clapi-visite_guidee_manoir_guide2-804	 On exporte énormément la broderie, surtout avec les pays orientaux.
+cefc-clapi-commerce_fromagerie-861_1	 Merci.
+cefc-clapi-aperitif_chat-816	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1772	 On est venu là.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-287	 Au revoir.
+cefc-clapi-visite_guidee_manoir_guide2-279	 Merci.
+cefc-clapi-aperitif_rupture-668	 Sous-titrage Société Radio-Canada
+cefc-clapi-aperitif_chat-686	 il fallait faire des arbres qui montrent en
+cefc-clapi-reunion_conception_mosaic_architecture-2375	 Merci.
+cefc-clapi-repas_olives-510	 Enfin je suppose, ça me paraît bizarre
+cefc-clapi-visite_guidee_manoir_guide2-751	 au dessus
+cefc-clapi-repas_kiwi-317	 mais ils sont 35. C'est-à-dire qu'il y en a 5 qui doivent
+cefc-clapi-commerce_fromagerie-83	 Il mange que du fromage !
+cefc-clapi-repas_francais-672	 et en avion de sang.
+cefc-clapi-reunion_organisation_dh-1171	 Merci.
+cefc-clapi-repas_epinards-301	 Je ne sais pas si vous êtes prêts.
+cefc-clapi-visite_guidee_manoir_guide2-73	 ce qui permet d'avoir deux ailes
+cefc-clapi-aperitif_glasgow-1098	 Sous-titrage Société Radio-Canada
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-787	 Pour le 11 novembre, est-ce que tu prends ce qu'il faut ou pas ?
+cefc-clapi-repas_francais-1286	 Ceux qui avaient fait cinq lignes en haut d'une cinquième page, ils avaient eu un point ou un point et demi en moins.
+cefc-clapi-visite_guidee_manoir_guide1-92	 Plusieurs conditions.
+cefc-clapi-repas_francais-102	 Oui, je croyais que tu devais la voir ce matin.
+cefc-clapi-reunion_organisation_dh-1658	 Mon ami, dans les...
+cefc-clapi-jeux_video_foot_Lyon-659	 T'es 8 fois en jouant
+cefc-clapi-jeux_video_foot_Lyon-529	 Hey !
+cefc-clapi-aperitif_rupture-462	 Ils sont des piégés de loups
+cefc-clapi-reunion_organisation_dh-983	 parce qu'on n'a pas été adéquat dans une situation de l'eau.
+cefc-clapi-visite_guidee_manoir_guide1-717	 militaires
+cefc-clapi-repas_kiwi-1040	 et tout.
+cefc-clapi-aperitif_glasgow-199	 cir neurological ?
+cefc-clapi-reunion_conception_mosaic_architecture-1653	 Comme ça, plutôt limité à ça.
+cefc-clapi-aperitif_glasgow-1261	 l'anglais on n'a pas trop de contrôle. On a eu un contrôle surprise dans le civil l'autre jour et
+cefc-clapi-reunion_organisation_dh-327	 Mais aussi, disons, il y a une chose que j'ai apprise quand je vivais en Angleterre,
+cefc-clapi-repas_olives-964	 Sous-titres par Jérémy Diaz
+cefc-clapi-visite_guidee_manoir_guide2-1129	 Donc, une triple suspension, elle est rarissime.
+cefc-clapi-jeux_video_foot_Lyon-104	 Ah ouais, on tente des choses.
+cefc-clapi-montage_meuble-470	 Je suis pas un gérard, ça se voit.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1275	 Oh !
+cefc-clapi-repas_kiwi-1170	 Ouais.
+cefc-clapi-repas_olives-712	
+cefc-clapi-aperitif_glasgow-9	 C'est moi.
+cefc-clapi-aperitif_chat-1125	 Ça va prendre une passade pro-rousse ?
+cefc-clapi-repas_olives-829	 Il est sur ses réserves.
+cefc-clapi-aperitif_chat-275	 c'est des particuliers qui accueillent chez eux des voyageurs
+cefc-clapi-commerce_fromagerie-1566	 Merci.
+cefc-clapi-aperitif_rupture-88	 Sous-titrage Société Radio-Canada
+cefc-clapi-reunion_conception_mosaic_architecture-1459	 Oui, oui, voilà, très très très bien.
+cefc-clapi-reunion_organisation_dh-1413	 ne soit pas trop un état dont les précurseurs des indépendances sont censés être sains.
+cefc-clapi-commerce_fromagerie-1976	 Donc, méchant, tu peux...
+cefc-clapi-jeux_video_foot_Lyon-1471	 Oui, oui.
+cefc-clapi-reunion_conception_mosaic_architecture-1426	 Voilà, on va voir.
+cefc-clapi-repas_francais-982	 et puis tu te le colles sur ta veste
+cefc-clapi-commerce_fromagerie-1865	 je prends bien
+cefc-clapi-reunion_conception_mosaic_architecture-523	 Donc ça veut dire qu'on a un peu les trois...
+cefc-clapi-montage_meuble-352	 les chevilles là, c'est la mort.
+cefc-clapi-commerce_fromagerie-161	 Merci.
+cefc-clapi-aperitif_glasgow-70	 Non, non, non, non. Ça, c'était mes fausses copies.
+cefc-clapi-repas_francais-277	 Tu penses que tu auras tes résultats d'examen en juin ?
+cefc-clapi-visite_guidee_manoir_guide2-965	 etc sont des marines.
+cefc-clapi-repas_kiwi-615	 et c'est devenu
+cefc-clapi-reunion_organisation_dh-1414	 et pour les Afriques unies qui soient capables, etc.
+cefc-clapi-commerce_fromagerie-2835	 Je ne trouverai pas une station...
+cefc-clapi-aperitif_glasgow-1110	 mais moi je trouve ça tout mignon tu vois
+cefc-clapi-reunion_conception_mosaic_architecture-2000	 Mais par contre, c'est dommage, ils veulent faire des choses de ce pendant.
+cefc-clapi-aperitif_glasgow-2206	 je me suis dit je vais apprendre mon russe
+cefc-clapi-jeux_video_foot_Lyon-489	 Sous-titrage Société Radio-Canada
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-230	 de l'Oise.
+cefc-clapi-jeux_video_foot_Lyon-1231	 Qu'est-ce que t'en penses ?
+cefc-clapi-repas_kiwi-1262	 Moi je sais que vous ne vous rappelez pas quand on était petit, quand on était petit, c'était pas comme ça.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-173	 Oui.
+cefc-clapi-aperitif_rupture-461	 C'est ça en fait.
+cefc-clapi-reunion_organisation_dh-1659	 Comment il s'appelle mon ami ?
+cefc-clapi-aperitif_glasgow-1725	 Enfin, la pime du temps.
+cefc-clapi-aperitif_rupture-883	 Mais c'est bizarre en fait.
+cefc-clapi-repas_francais-727	 fait semblant de faire enlevé quoi.
+cefc-clapi-montage_meuble-226	 Les roses, les roses.
+cefc-clapi-aperitif_rupture-1282	 Merci.
+cefc-clapi-reunion_organisation_dh-2067	 Merci.
+cefc-clapi-repas_kiwi-1039	 enfin elle montait sur tous les... enfin même super dans le jeu
+cefc-clapi-commerce_fromagerie-191	 Moi, en fait, je ne fais même plus attention.
+cefc-clapi-aperitif_rupture-1233	 tu nous dis je sais pas ouais ouais je l'ai oublié
+cefc-clapi-aperitif_pois-94	 tu veux le tiler à la chaude ou le tiler
+cefc-clapi-visite_guidee_manoir_guide2-389	 qui ont autant de caractères que les gens n'en aient jamais eu.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-111	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-572	 Oh, je change de jeu après ça.
+cefc-clapi-jeux_video_foot_Lyon-949	 Non
+cefc-clapi-repas_kiwi-442	 C'est ça. Je me suis fait un petit sou.
+cefc-clapi-aperitif_rupture-882	 qui se pose dans un village allemand.
+cefc-clapi-reunion_organisation_dh-1285	 et vous, vous les quittez, les gens, non ?
+cefc-clapi-reunion_conception_mosaic_architecture-434	 Donc pour lui,
+cefc-clapi-visite_guidee_manoir_guide2-237	 Sous-titrage Société Radio-Canada
+cefc-clapi-commerce_fromagerie-2023	 Merci.
+cefc-clapi-montage_meuble-113	 C'est pas mal, les douleurs.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-911	 ce sont l'animation
+cefc-clapi-commerce_fromagerie-1263	 Je vous donne un sac.
+cefc-clapi-jeux_video_foot_Lyon-1522	 que comment espérer
+cefc-clapi-visite_guidee_manoir_guide2-112	 en boucle
+cefc-clapi-repas_olives-364	 Mais donc vu que под ту
+cefc-clapi-commerce_fromagerie-25	 Au revoir, Monsieur.
+cefc-clapi-jeux_video_foot_Lyon-1499	 Tu te rends compte?
+cefc-clapi-visite_guidee_manoir_guide2-45	 alors pourquoi ?
+cefc-clapi-reunion_conception_mosaic_architecture-1398	 Ça oui.
+cefc-clapi-repas_francais-1123	 pas forcément...
+cefc-clapi-aperitif_chat-327	 C'est vrai que c'est un petit pays
+cefc-clapi-commerce_fromagerie-2824	 On a rentré pas mal de fromage suisse, gruyère suisse, de réserve, d'alpage.
+cefc-clapi-montage_meuble-59	 C'est bon?
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-930	 pour.
+cefc-clapi-aperitif_glasgow-601	 Donc on a pris...
+cefc-clapi-aperitif_chat-835	 Ah ouais ? Ouais je peux même essayer C'est bon pour le plaisir
+cefc-clapi-aperitif_pois-802	 tel homme.
+cefc-clapi-repas_francais-724	 Ça ne doit pas être pareil.
+cefc-clapi-repas_francais-1203	 on l'a reformaté il y a 15 jours
+cefc-clapi-reunion_conception_mosaic_architecture-2863	 il peut passer par une porte de 80, les ascenseurs handicapés, ils ont une porte de 80.
+cefc-clapi-reunion_organisation_dh-1108	 mais je ne sais pas si je crois
+cefc-clapi-aperitif_rupture-808	 Ah mais pas moi !
+cefc-clapi-repas_olives-1014	 Non.
+cefc-clapi-reunion_organisation_dh-464	 C'est une jolie métaphore par rapport au chaos.
+cefc-clapi-commerce_fromagerie-3004	 Merci.
+cefc-clapi-repas_francais-601	 une nouvelle boîte Yahoo parce que tu vois j'aime bien avoir une boîte pour les profs et tout
+cefc-clapi-montage_meuble-335	 c'est pas de travers ça rentre
+cefc-clapi-reunion_conception_mosaic_architecture-2383	 Oui.
+cefc-clapi-jeux_video_foot_Lyon-1825	 au-dessus de ça
+cefc-clapi-visite_guidee_manoir_guide2-1438	 Alors, je vous l'ai dit, c'est lui qui va faire construire l'allée des communs. C'est un bâtisseur, c'est un collectionneur d'art.
+cefc-clapi-reunion_conception_mosaic_architecture-2918	 Oui, c'est ça.
+cefc-clapi-reunion_organisation_dh-1616	 ils étaient très bien payés pour le dire
+cefc-clapi-repas_kiwi-936	 Voilà.
+cefc-clapi-aperitif_glasgow-158	 Merci.
+cefc-clapi-commerce_fromagerie-1843	 sur le SIDA.
+cefc-clapi-visite_guidee_manoir_guide2-887	 Tout est dans le servisme.
+cefc-clapi-repas_francais-1090	 On est là
+cefc-clapi-repas_olives-737	 C'est le bonheur de cette saison.
+cefc-clapi-aperitif_chat-1154	 Non, non, non. Moi, je suis un peu mouillant.
+cefc-clapi-reunion_conception_mosaic_architecture-795	 bien mon pigeonnier
+cefc-clapi-aperitif_glasgow-1639	 ça coûte super cher.
+cefc-clapi-commerce_fromagerie-2908	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-9	 ils le pose troisième
+cefc-clapi-reunion_conception_mosaic_architecture-1962	 En fait, je ne sais pas exactement ce point-là.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1091	 Je veux juste que...
+cefc-clapi-repas_olives-77	 Ah oui parce que j'étais
+cefc-clapi-jeux_video_foot_Lyon-1507	 pour le travail.
+cefc-clapi-visite_guidee_manoir_guide2-18	 Il y a un gros décalage.
+cefc-clapi-reunion_organisation_dh-1810	 Merci.
+cefc-clapi-repas_kiwi-462	 Comme tu l'as monté là.
+cefc-clapi-repas_olives-961	 faut que je me déroute
+cefc-clapi-montage_meuble-33	 Elle est carré en fait donc...
+cefc-clapi-visite_guidee_manoir_guide1-413	 les objets du quotidien.
+cefc-clapi-visite_guidee_manoir_guide1-237	 de la terre la terre
+cefc-clapi-repas_olives-836	 Oui.
+cefc-clapi-aperitif_glasgow-407	 pas pu voir
+cefc-clapi-aperitif_rupture-186	 Ouais, mais je pense...
+cefc-clapi-repas_epinards-53	 On transforme le poids en dégénéreusement.
+cefc-clapi-aperitif_glasgow-1358	 Au fait, du coup,
+cefc-clapi-reunion_organisation_dh-1466	 qui sont avec le Conseil de classe.
+cefc-clapi-repas_francais-824	 En plus, c'est cool, le dossier est conduit à un élipostère 10.
+cefc-clapi-aperitif_glasgow-2049	 Merci.
+cefc-clapi-aperitif_glasgow-108	 et c'est trop beau.
+cefc-clapi-aperitif_chat-298	 on a fait les sorties en centre
+cefc-clapi-aperitif_pois-334	 D'accord.
+cefc-clapi-aperitif_rupture-914	 c'est que t'as plein de possibilités
+cefc-clapi-repas_olives-488	 Regardez si c'était des femelles ou des mâles.
+cefc-clapi-montage_meuble-380	 mais si, traverse. Donc normalement, on a pas le choix
+cefc-clapi-aperitif_chat-284	 Il y a des gens du monde entier qui sont dans ce
+cefc-clapi-repas_olives-311	 C'est ça.
+cefc-clapi-reunion_organisation_dh-363	 C'est ça la liberté.
+cefc-clapi-commerce_fromagerie-2282	 à Ouïe
+cefc-clapi-aperitif_glasgow-3	 Ça va pour l'heure.
+cefc-clapi-reunion_conception_mosaic_architecture-537	 Salut !
+cefc-clapi-visite_guidee_manoir_guide2-107	 l'harmonie avec l'autre cassade et surtout beaucoup de se brouiller de
+cefc-clapi-reunion_organisation_dh-431	 Oui
+cefc-clapi-repas_kiwi-446	 elle a fait plus d'un an d'ailleurs, une deux chansons
+cefc-clapi-repas_francais-106	 Et elle était en train de tout imprimer si tu veux
+cefc-clapi-repas_francais-482	 mais le chien, il est bien comme ça.
+cefc-clapi-reunion_organisation_dh-1709	 C'est la technique du cadavre d'Aksky.
+cefc-clapi-reunion_conception_mosaic_architecture-1402	 aurait pu être une barre.
+cefc-clapi-commerce_fromagerie-281	 C'est ça, c'est ça !
+cefc-clapi-aperitif_glasgow-2441	
+cefc-clapi-repas_kiwi-1499	 et du coup après il faut que je casse juste
+cefc-clapi-reunion_conception_mosaic_architecture-1427	 Alors on va t'en voir.
+cefc-clapi-aperitif_chat-849	02 03 04 05
+cefc-clapi-repas_olives-663	 Bah j'ai envie de dire surpoids mais à part ça...
+cefc-clapi-aperitif_rupture-1070	 des fonctions.
+cefc-clapi-reunion_organisation_dh-111	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-414	 Ici, ce n'est pas le cas, parce que nous avons une collection unique au monde, que je vous montrerai dans la chapelle.
+cefc-clapi-reunion_organisation_dh-17	 et contribuer donc au contenu
+cefc-clapi-repas_kiwi-1006	 trop marre de rire en plus
+cefc-clapi-repas_francais-631	 il y a personne
+cefc-clapi-visite_guidee_manoir_guide1-877	 Lui, son fils, s'est marié avec
+cefc-clapi-repas_olives-690	 Ça me faisait un bon moment.
+cefc-clapi-aperitif_glasgow-1498	 Mais c'est le blog.
+cefc-clapi-commerce_fromagerie-1377	 qui se rendent sévilles.
+cefc-clapi-montage_meuble-104	 Combien de jours ?
+cefc-clapi-reunion_organisation_dh-490	 Tu vas le faire oui.
+cefc-clapi-visite_guidee_manoir_guide1-942	 pas de premier votre âme.
+cefc-clapi-aperitif_glasgow-1531	 En plus, maintenant, avec...
+cefc-clapi-aperitif_pois-370	 Ouais.
+cefc-clapi-aperitif_rupture-476	 Oui. Là, moi, je cherche des appartements.
+cefc-clapi-aperitif_chat-626	 sauf que
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-953	 Ah d'accord !
+cefc-clapi-reunion_conception_mosaic_architecture-53	 et je trouvais qu'en fait on voit le moins possible les voitures
+cefc-clapi-repas_francais-864	 s'attirer de vachement de
+cefc-clapi-aperitif_glasgow-102	 dans un BNB, avec la vue sur... Sur quoi, d'ailleurs ?
+cefc-clapi-aperitif_rupture-774	 Faites un plaisir.
+cefc-clapi-reunion_conception_mosaic_architecture-2020	 Mais il peut sortir sur l'extérieur.
+cefc-clapi-aperitif_glasgow-261	 non
+cefc-clapi-visite_guidee_manoir_guide2-565	 La chambre de...
+cefc-clapi-repas_francais-295	
+cefc-clapi-aperitif_glasgow-792	 Merci.
+cefc-clapi-commerce_fromagerie-1473	 à des bonnes épiceries
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-692	 Merci.
+cefc-clapi-reunion_organisation_dh-835	 La question est tout à fait pertinente.
+cefc-clapi-repas_francais-979	 mais avec le lion qui rugit quoi
+cefc-clapi-repas_epinards-23	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-777	 Et la fonction barre sera...
+cefc-clapi-reunion_conception_mosaic_architecture-1368	 Oui, on en fait l'ad.
+cefc-clapi-aperitif_glasgow-2435	 Bon, c'est bon, tu sais retourner ?
+cefc-clapi-aperitif_glasgow-561	 que je suis là. Mm-hmm.
+cefc-clapi-repas_kiwi-1475	 il y a beaucoup de travail.
+cefc-clapi-visite_guidee_manoir_guide1-428	 plus de 300 000.
+cefc-clapi-visite_guidee_manoir_guide1-409	 Pour les garçons aussi.
+cefc-clapi-repas_olives-740	 C'est le froid surtout
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-94	 Merci.
+cefc-clapi-visite_guidee_manoir_guide1-172	 Merci.
+cefc-clapi-commerce_fromagerie-2146	 On sait qu'on était un marché producteur en Otterie.
+cefc-clapi-aperitif_rupture-385	 Vous avez décidé ?
+cefc-clapi-jeux_video_foot_Lyon-7	 je suis pas sûr de ça
+cefc-clapi-commerce_fromagerie-145	 on a fait toujours 7 semaines
+cefc-clapi-visite_guidee_manoir_guide2-1341	 C'est pas si vite.
+cefc-clapi-visite_guidee_manoir_guide1-784	 Les calenures qui sont représentées en marquetterie, tout en trompe-l'œil.
+cefc-clapi-reunion_conception_mosaic_architecture-414	 je lui réponds.
+cefc-clapi-jeux_video_foot_Lyon-792	 normal
+cefc-clapi-repas_olives-87	 Oh mais c'est compliqué
+cefc-clapi-reunion_organisation_dh-347	 peuvent tout faire parce qu'ils ont vécu le biais
+cefc-clapi-repas_kiwi-1432	 Ils ont une passion.
+cefc-clapi-reunion_organisation_dh-366	 Je ne l'ai pas pas vu noir.
+cefc-clapi-repas_kiwi-356	 Et puis on va apparaître dans l'oeil.
+cefc-clapi-montage_meuble-246	 Donc ça va comme ça.
+cefc-clapi-aperitif_rupture-36	 Mais vous pouvez, parce que c'est vrai que ça a changé.
+cefc-clapi-repas_olives-338	 Non mais c'est pas...
+cefc-clapi-repas_olives-214	 On sait rien du tout
+cefc-clapi-repas_epinards-13	 Mais... Hein ?
+cefc-clapi-montage_meuble-590	 Je viens de...
+cefc-clapi-aperitif_chat-203	 au monde.
+cefc-clapi-visite_guidee_manoir_guide2-333	 voilà
+cefc-clapi-aperitif_glasgow-1758_2	 Il ne va pas avoir que je prépare ça.
+cefc-clapi-aperitif_rupture-1256	 bien le sredi et puis...
+cefc-clapi-reunion_organisation_dh-1483	 je suis meilleur
+cefc-clapi-aperitif_rupture-648	 Au revoir.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-303	 C'est ça !
+cefc-clapi-visite_guidee_manoir_guide2-394	 la croix surmonte presque systématiquement la rosace.
+cefc-clapi-reunion_conception_mosaic_architecture-1141	 C'est vrai qu'on a un noyau à placer ici.
+cefc-clapi-visite_guidee_manoir_guide1-892	 Merci.
+cefc-clapi-repas_olives-1015	 Bon, je n'en fais plus en fait.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-915	 et beaucoup de chocolat.
+cefc-clapi-reunion_conception_mosaic_architecture-436	 On conservait une partie sanitaire ici, mais qui était plutôt destinée à cette fameuse zone fitness, qui ferait un petit peu une zone tampon entre la fin de l'hébergement ici et le début de la restauration.
+cefc-clapi-commerce_fromagerie-3045	 Donc ça c'est des...
+cefc-clapi-aperitif_glasgow-1461	 on va dire merde
+cefc-clapi-aperitif_glasgow-1112	 à la vie de femme
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-327	 In situ.
+cefc-clapi-visite_guidee_manoir_guide1-191	 Et les caméras justement étaient confinées
+cefc-clapi-reunion_conception_mosaic_architecture-2824	 Votre.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-44	 Deux fois au moins.
+cefc-clapi-aperitif_glasgow-834	 Ou alors, j'ai pas besoin d'un truc.
+cefc-clapi-visite_guidee_manoir_guide2-1043	 simplement parce que le grand-père a fait partie de la Grande Armée et qu'il a légué ce vécu à ses enfants.
+cefc-clapi-aperitif_rupture-268	 C'est pour ça que ça...
+cefc-clapi-repas_olives-63	 Il y a des espèces de gâtons à l'intérieur.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-353_1	 Bravo !
+cefc-clapi-jeux_video_foot_Lyon-706	 Sous-titres par Jérémy Diaz
+cefc-clapi-commerce_fromagerie-1583	 vous avez du...
+cefc-clapi-aperitif_chat-1098	 – Sous-titrage FR 2021
+cefc-clapi-aperitif_pois-659	 comme infirmière.
+cefc-clapi-commerce_fromagerie-235	 Merci.
+cefc-clapi-repas_francais-503	 Il faut faire 10 000 allers-retours.
+cefc-clapi-reunion_conception_mosaic_architecture-2046	 Il faut que je ressorte quand même.
+cefc-clapi-visite_guidee_manoir_guide2-1190	 s'installe comme ça, s'appelle une voyeuse parce que celui qui ne joue pas
+cefc-clapi-repas_kiwi-1282	 tu sais de ma
+cefc-clapi-montage_meuble-435	 Je ne sais pas si je suis encore ou pas
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1133	 Vous ne marchez plus qu'avec une canne.
+cefc-clapi-visite_guidee_manoir_guide2-1256	 On est pas mal abonnés pour...
+cefc-clapi-repas_olives-451	 J'ai fait des smoothies aux fruits
+cefc-clapi-repas_olives-983_2	 C'est fort.
+cefc-clapi-aperitif_pois-386	 elle est rentrée vraiment tard tu vois vers 19h et la nuit a rempli
+cefc-clapi-repas_kiwi-1383	 Non. Qu'est-ce que je fais ? Les révisions aussi c'est le truc.
+cefc-clapi-reunion_organisation_dh-1256	 Et les Anglais ont dit problème, quel problème ?
+cefc-clapi-aperitif_glasgow-1626	 Merci.
+cefc-clapi-repas_olives-887	 passe vite
+cefc-clapi-aperitif_pois-25	 Juste un petit instant.
+cefc-clapi-aperitif_chat-20	 Il est parti à une exploration.
+cefc-clapi-visite_guidee_manoir_guide2-1279	 Madame Ligue.
+cefc-clapi-reunion_conception_mosaic_architecture-830	 De quoi ?
+cefc-clapi-commerce_fromagerie-2259	 la suédoise.
+cefc-clapi-aperitif_pois-363	 Oui, mais il le payait quand même le dimanche, même s'il en travaillait.
+cefc-clapi-visite_guidee_manoir_guide2-1210	 Et en plus, c'est bien joué avec.
+cefc-clapi-repas_kiwi-138	 c'est pas méchant
+cefc-clapi-commerce_fromagerie-709	 les pièces ici. Ça va ?
+cefc-clapi-reunion_organisation_dh-2064	 tu disais
+cefc-clapi-visite_guidee_manoir_guide2-145	 Regarde- Market
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-938	 Alors, je ne sais pas, parce que c'est plus facile pour couper, non, les carrés.
+cefc-clapi-aperitif_glasgow-2467	 Ne t'en fais pas.
+cefc-clapi-jeux_video_foot_Lyon-596	 en mode orange alors...
+cefc-clapi-aperitif_glasgow-2202	 Il lui a beaucoup dit
+cefc-clapi-jeux_video_foot_Lyon-1839	 que c'est bien.
+cefc-clapi-commerce_fromagerie-337	 Non, pas une par une.
+cefc-clapi-reunion_organisation_dh-526	 et crucifier
+cefc-clapi-aperitif_rupture-1080	 avec le self-savageur.
+cefc-clapi-commerce_fromagerie-816	 Oui, ils vont être là.
+cefc-clapi-repas_francais-639	 Allons-y.
+cefc-clapi-commerce_fromagerie-2901	 Merci.
+cefc-clapi-repas_francais-926	 Tous ceux qui sont blancs, je comprends pas.
+cefc-clapi-commerce_fromagerie-1107	 Merci.
+cefc-clapi-aperitif_pois-710	 Je suis malade.
+cefc-clapi-visite_guidee_manoir_guide2-645	 Merci.
+cefc-clapi-commerce_fromagerie-37	 grands sacs
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-874	 mais
+cefc-clapi-reunion_conception_mosaic_architecture-1194	 c'est pour minimiser le plus possible
+cefc-clapi-reunion_conception_mosaic_architecture-2382	 Là, ça devient vraiment boyau pour l'entrée principale du restaurant.
+cefc-clapi-aperitif_glasgow-2191	 Et hier,
+cefc-clapi-reunion_conception_mosaic_architecture-499	 Oui, au restaurant.
+cefc-clapi-aperitif_glasgow-686	 Parfait, c'est ça.
+cefc-clapi-jeux_video_foot_Lyon-129	 Non, d'autre côté. T'aimes bien le quoi, dans la mouche ?
+cefc-clapi-repas_epinards-264_2	 on va voir ce qu'on va faire d'autre
+cefc-clapi-reunion_conception_mosaic_architecture-68	 au second
+cefc-clapi-repas_francais-196	 Je m'incarne
+cefc-clapi-repas_kiwi-483	 En même temps, on n'avait pas l'âge qu'elle a.
+cefc-clapi-repas_olives-475	 Tu passes avec le kick-off
+cefc-clapi-reunion_conception_mosaic_architecture-732	 je suis un peu
+cefc-clapi-visite_guidee_manoir_guide2-1120	 Et moi je touche par contre.
+cefc-clapi-commerce_fromagerie-2739	 Bonne journée à tous.
+cefc-clapi-commerce_fromagerie-1784	 Mais c'est pas 10 mois de la guerre !
+cefc-clapi-reunion_organisation_dh-463	 Et donc ça, c'était le jeu de la journée sur l'océan.
+cefc-clapi-aperitif_pois-1024	 et ouais
+cefc-clapi-reunion_organisation_dh-1425	 qui va à la police.
+cefc-clapi-repas_olives-1103	 T'allais à l'hôpital, là,
+cefc-clapi-aperitif_chat-51	 On était pas très d'accord ouais Ça fait penser à un restaurant
+cefc-clapi-visite_guidee_manoir_guide1-746	 notre donateur.
+cefc-clapi-aperitif_rupture-24	 Tant qu'ils font des travaux, ça met de la poussière partout !
+cefc-clapi-aperitif_glasgow-1163	 Parce que là, j'aurais été dégoûtée parce que j'avais envie d'aller passer un week-end chez lui. Et qu'il allait venir pour mon anniversaire qui n'était pas con pour l'anniversaire de mon fils.
+cefc-clapi-repas_francais-1015	 Je pense à ça parce que je pense plus au bonheur.
+cefc-clapi-aperitif_glasgow-175	 C'est pas le truc avec le phare ?
+cefc-clapi-commerce_fromagerie-1181	 est-ce que là
+cefc-clapi-jeux_video_foot_Lyon-1115	 à N contrôler 1
+cefc-clapi-aperitif_rupture-471	 à votre nouvelle amitié
+cefc-clapi-repas_francais-1069	 Et ça n'a pas marché ?
+cefc-clapi-commerce_fromagerie-44	 On va filmer les tous, comme ça.
+cefc-clapi-reunion_organisation_dh-1177	 c'est le conflit. Là, c'est bien l'homme qui crée le chaos, comment
+cefc-clapi-reunion_conception_mosaic_architecture-1291	 ça a réduit assez considérablement
+cefc-clapi-visite_guidee_manoir_guide2-272	 au milieu de cette vie,
+cefc-clapi-commerce_fromagerie-300	 C'est écrit sur la porte. Non, non, mais c'est... Mais je me disais, c'est dur de voir à l'avance, parce que... Parce que l'année dernière, elles ont tout passé en...
+cefc-clapi-visite_guidee_manoir_guide1-16	 Ah, d'accord, d'accord.
+cefc-clapi-repas_olives-698	 Vous avez fait ce qu'on vous dit, hein ?
+cefc-clapi-jeux_video_foot_Lyon-1400	 Tu veux que je l'utilise ?
+cefc-clapi-reunion_organisation_dh-1170	 S'il n'y avait pas de guerre,
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-967	 car...
+cefc-clapi-reunion_conception_mosaic_architecture-1497	 mais justement de leur...
+cefc-clapi-jeux_video_foot_Lyon-1333	 Tristan ?
+cefc-clapi-aperitif_rupture-171	 Comme ça, je reste j'ai dorant
+cefc-clapi-repas_francais-759	 Je voulais dire, on voit que, pour qu'on brasse rien de plus sur l'ouest du département, ce que laisse est polarisé par Belgarde et la Suisse.
+cefc-clapi-reunion_organisation_dh-1124	 Alors moi je n'en ai pas, parce que je n'ai pas sa forme pensée.
+cefc-clapi-visite_guidee_manoir_guide1-372	 Je suis heureux de te voir.
+cefc-clapi-reunion_conception_mosaic_architecture-1292	 Tu as vu que cette petite boîte là en fond de la grande salle.
+cefc-clapi-aperitif_pois-783	 Sous-titrage Société Radio-Canada
+cefc-clapi-reunion_conception_mosaic_architecture-2175	 C'est-à-dire qu'en fait, moi, je ne suis pas du tout sûr de ça...
+cefc-clapi-reunion_conception_mosaic_architecture-2331	 C'est une autre chose.
+cefc-clapi-aperitif_rupture-445	 Au revoir.
+cefc-clapi-reunion_organisation_dh-2024	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-458	 dans une dizaine d'années.
+cefc-clapi-repas_francais-1154	 Mais jamais nous.
+cefc-clapi-jeux_video_foot_Lyon-2056	 Ils sont tous chatés.
+cefc-clapi-reunion_conception_mosaic_architecture-2062	 au cours de la circulation ?
+cefc-clapi-reunion_conception_mosaic_architecture-2270	 La verrière, elle est quand même de là à là.
+cefc-clapi-repas_epinards-160	 Merci.
+cefc-clapi-reunion_organisation_dh-571	 Donc il me semble qu'on a
+cefc-clapi-reunion_organisation_dh-1851	 du coup c'était une espèce de décateur numérique à partir de là
+cefc-clapi-repas_olives-805	 C'est clair que les pâtes surgelées ça doit donner quelque chose dans le goût.
+cefc-clapi-commerce_fromagerie-1977	 Il y a un micro, il y a une caméra là, il y a un micro dessus.
+cefc-clapi-reunion_conception_mosaic_architecture-2513	 Est-ce qu'on n'irait pas au fitness ?
+cefc-clapi-aperitif_chat-1127	 C'est bon.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1292	 Mais non, on ne s'est pas surveillé, on est filmé.
+cefc-clapi-repas_olives-909	 en fait
+cefc-clapi-commerce_fromagerie-2663	 On peut avoir vu un samarande comme ça.
+cefc-clapi-commerce_fromagerie-124	 Ah bah tu m'en fous bien !
+cefc-clapi-jeux_video_foot_Lyon-1529	 tu vois,
+cefc-clapi-repas_francais-591	 Et en plus, tu vois, il est revenu
+cefc-clapi-commerce_fromagerie-1491	 à ce sujet.
+cefc-clapi-commerce_fromagerie-1564	 Ah ouais, mais on s'est dit que...
+cefc-clapi-aperitif_pois-1028	 jamais entendu
+cefc-clapi-repas_olives-504	 Oui mais une voiture qui perd toujours son goût tu vas parfois faire
+cefc-clapi-commerce_fromagerie-814	 Bien sûr.
+cefc-clapi-repas_kiwi-994	 Enfin de... Ça gâche.
+cefc-clapi-aperitif_glasgow-1823	 Amen.
+cefc-clapi-commerce_fromagerie-2114	 des écoles qui ont de ça.
+cefc-clapi-reunion_conception_mosaic_architecture-726	 Tu ne vas pas vouloir refaire...
+cefc-clapi-aperitif_rupture-836_1	 je te regarde là c'est sûr
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1019	 c'est le bénéfice.
+cefc-clapi-visite_guidee_manoir_guide2-1488	 n'a pas réitéré l'exploit.
+cefc-clapi-montage_meuble-587	 Vachement.
+cefc-clapi-aperitif_pois-339	 et travaille le dimanche soir.
+cefc-clapi-aperitif_glasgow-760	 bah écoutez on n'arrive pas trop à se décider puis
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-50_2	 Alors, 603.
+cefc-clapi-aperitif_rupture-231	 Il y a moyen peut-être d'en aller plus loin.
+cefc-clapi-montage_meuble-151	 de l'industrie.
+cefc-clapi-aperitif_glasgow-1942	 Je vais vous échanger un peu.
+cefc-clapi-reunion_conception_mosaic_architecture-1381	 Merci.
+cefc-clapi-reunion_organisation_dh-1649	 Merci.
+cefc-clapi-commerce_fromagerie-527	 ...
+cefc-clapi-repas_francais-254	 Donc, je ne sais pas.
+cefc-clapi-commerce_fromagerie-2792	 Bonjour.
+cefc-clapi-aperitif_pois-322	 va rentrer à La Réunion.
+cefc-clapi-montage_meuble-284	 Je retiens ce que je viens de dire en fait sur
+cefc-clapi-aperitif_pois-344	 Je vous connais bien, qu'elle a...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1034	 Oui, c'est un anniversaire.
+cefc-clapi-reunion_organisation_dh-334	 et voulait entendre la fin du concert le truc complètement élégant et ça tient à une
+cefc-clapi-aperitif_chat-334	 Ouais, non. Tu es méchant avec besoin.
+cefc-clapi-commerce_fromagerie-835	 grâce à cette église.
+cefc-clapi-aperitif_chat-476	 L'alcool, ça c'est un sujet quoi.
+cefc-clapi-repas_epinards-4	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1628	 C'est une mauvaise question.
+cefc-clapi-reunion_conception_mosaic_architecture-2212	 avec une circulation finalement
+cefc-clapi-repas_kiwi-481	 pas dévoilé nous
+cefc-clapi-aperitif_glasgow-684	 Tu gagnes à l'affaire ?
+cefc-clapi-aperitif_chat-1031	 plus chaque fois on pétitionner on va après
+cefc-clapi-repas_kiwi-1192	 Parce qu'il y a plein de choses.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1195	 Oui.
+cefc-clapi-reunion_conception_mosaic_architecture-686	 d'être plutôt contre la fenêtre.
+cefc-clapi-aperitif_glasgow-2385	 Amen.
+cefc-clapi-commerce_fromagerie-2044	 Merci.
+cefc-clapi-aperitif_glasgow-636	 En fait le soleil était à côté d'eux,
+cefc-clapi-commerce_fromagerie-598	 Merci.
+cefc-clapi-repas_olives-190	 Allez, c'est bon ?
+cefc-clapi-repas_francais-96	 Makobu quasi dénistre foam
+cefc-clapi-visite_guidee_manoir_guide2-163	 Voilà, nous participons au projet.
+cefc-clapi-repas_kiwi-140	 Au revoir.
+cefc-clapi-commerce_fromagerie-2612	 Oui, on a fait les Celsius.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-919	 Il y a beaucoup de chocolat dans la ronde.
+cefc-clapi-repas_olives-279	 Comment ? Je ne sais pas si je suis à la première minute de mes lettres.
+cefc-clapi-montage_meuble-94	 cherche
+cefc-clapi-aperitif_glasgow-1398	 Ce serait un delight de à buddhisme.
+cefc-clapi-reunion_conception_mosaic_architecture-945	 Oui, oui.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-509	 Tu ne vas pas à l'école encore.
+cefc-clapi-visite_guidee_manoir_guide2-921	 J'ai des grands cris.
+cefc-clapi-reunion_organisation_dh-396	 Je vous transmets ce que j'ai vu.
+cefc-clapi-reunion_conception_mosaic_architecture-191	 pour le restaurant, avec néanmoins le principe de la conservation de la verrière qui est là, toujours.
+cefc-clapi-aperitif_glasgow-1741	 Ouais, enfin moi je vais pas rester là.
+cefc-clapi-reunion_conception_mosaic_architecture-2558	 Ça va les célébrer pour que ça grandisse.
+cefc-clapi-commerce_fromagerie-2343	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-1079	 ils sont à part le même corps tous les deux.
+cefc-clapi-reunion_organisation_dh-2110	 et en même temps, de préparer la soupe sur place
+cefc-clapi-commerce_fromagerie-436	 peut-être plus bon.
+cefc-clapi-jeux_video_foot_Lyon-1209	 parce que l'on a une vie
+cefc-clapi-repas_olives-818	 mais
+cefc-clapi-commerce_fromagerie-2193	 celui qui est un peu plus sec devant
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-521	 Il faut qu'on commence.
+cefc-clapi-jeux_video_foot_Lyon-1311	 C'est toujours pas de mal à croire.
+cefc-clapi-montage_meuble-62	 T'as gardé le dessus de la main à la fois?
+cefc-clapi-repas_kiwi-252	 mais déjà elle a mal compris ce que c'était
+cefc-clapi-jeux_video_foot_Lyon-605	 de Malatrie
+cefc-clapi-reunion_conception_mosaic_architecture-1638	 Et avoir un bar là, ce ne sera pas mal.
+cefc-clapi-reunion_organisation_dh-1620	 et que je suis un agitateur et que je voudrais que ce soit vivant,
+cefc-clapi-repas_olives-146	 Il y a pas de c****
+cefc-clapi-visite_guidee_manoir_guide1-742	 du début
+cefc-clapi-aperitif_glasgow-1948	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-1216	 Si jusqu'à présent vous avez vu des œuvres bretonnes qui peignent la Bretagne, la ouverture de la collection Astor, on a des flamands.
+cefc-clapi-repas_kiwi-1017_1	 Ah ouais
+cefc-clapi-reunion_conception_mosaic_architecture-552	 Sinon, l'autre possibilité, c'est qu'effectivement, tu pourrais avoir un accès là.
+cefc-clapi-commerce_fromagerie-7	 Je vous remercie.
+cefc-clapi-montage_meuble-536	 tu m'inviteras pas à me reprendre
+cefc-clapi-aperitif_chat-1115	 C'est diminuant.
+cefc-clapi-visite_guidee_manoir_guide2-1366	 si tu veux que je t'envoie un petit peu.
+cefc-clapi-aperitif_pois-525	 Et les paroles, c'est pareil.
+cefc-clapi-repas_francais-1024	 Moi, ça arrive vite.
+cefc-clapi-repas_francais-1114	 Maman, je viens.
+cefc-clapi-visite_guidee_manoir_guide1-730	 quand même un bout certain
+cefc-clapi-aperitif_glasgow-1606	 Non, c'était trop bien.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-349_2	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-209	 D'accord.
+cefc-clapi-repas_kiwi-385	 c'est pas de perdre non plus, c'est une formation.
+cefc-clapi-jeux_video_foot_Lyon-1856	 Je fais de la course.
+cefc-clapi-reunion_organisation_dh-1544	 Déjà, on pourrait du coup lâcher ça.
+cefc-clapi-aperitif_rupture-831	 mais j'ai compris
+cefc-clapi-reunion_organisation_dh-1757	 Ce sont des jeux qui peuvent servir à beaucoup de choses.
+cefc-clapi-aperitif_rupture-582	 Moi, dans ma tête, il est vachement spécialement.
+cefc-clapi-aperitif_glasgow-1669	 Merci.
+cefc-clapi-aperitif_pois-599	 Merci.
+cefc-clapi-commerce_fromagerie-496	 ça va s'améliorer
+cefc-clapi-aperitif_glasgow-1245	 Voilà, et puis... J'ai plein de trucs à faire.
+cefc-clapi-aperitif_glasgow-265	 Et l'autre qui est vers le sud-est.
+cefc-clapi-aperitif_rupture-624	 Oui, c'est cool comme ça, c'est très sympa.
+cefc-clapi-repas_kiwi-467	 et
+cefc-clapi-commerce_fromagerie-1361	 on va plus efficacement on va essayer de favoriser du...
+cefc-clapi-visite_guidee_manoir_guide1-361	 Ils ont confait les derniers propriétaires.
+cefc-clapi-reunion_conception_mosaic_architecture-2137	 Ça, c'est vrai.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-462	 C'est bon.
+cefc-clapi-commerce_fromagerie-916	 pour la seconde fois.
+cefc-clapi-aperitif_glasgow-322	 Et donc on s'est réveillé à 8 heures, on s'est préparé et tout.
+cefc-clapi-commerce_fromagerie-998	 Ah!
+cefc-clapi-commerce_fromagerie-142	 Merci.
+cefc-clapi-aperitif_glasgow-1074	 Voilà la cohésion qui se trouve.
+cefc-clapi-reunion_organisation_dh-732	 le jour où ils sont prêts,
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-591	 C'est plus facile peut-être pour vous. Parce que quand on est libre, on peut monter et faire le passage.
+cefc-clapi-aperitif_rupture-872	 Ah c'est ça !
+cefc-clapi-visite_guidee_manoir_guide2-515	 Amen.
+cefc-clapi-reunion_conception_mosaic_architecture-465	 tu te demandes un peu comment les gens qui sont
+cefc-clapi-repas_kiwi-635	 ça la casse encore plus
+cefc-clapi-aperitif_glasgow-569	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2850	 Pas de problème.
+cefc-clapi-reunion_conception_mosaic_architecture-8	 C'est-à-dire qu'on sait qu'on a positionné tous les parkings d'attente, la zone de dessert, l'accès principal, l'accès de services.
+cefc-clapi-aperitif_rupture-1264	 Tout ceci ?
+cefc-clapi-aperitif_glasgow-2295	 J'aime bien bosser avec des copines en mer.
+cefc-clapi-commerce_fromagerie-886	 Merci.
+cefc-clapi-repas_francais-1201	 Non, réellement, en fait, bon...
+cefc-clapi-reunion_conception_mosaic_architecture-2289	 Oui, mais face à ça...
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-108	 On peut saisir son corps.
+cefc-clapi-aperitif_rupture-440	 Je te laisse faire.
+cefc-clapi-aperitif_glasgow-1811	 Oui, bien.
+cefc-clapi-reunion_conception_mosaic_architecture-1875	 Alors une seule salle de l'ensemble du bar, c'est ce qu'il dit.
+cefc-clapi-aperitif_chat-59	 Ah je croyais que c'était la papeterie Ah ouais
+cefc-clapi-aperitif_glasgow-2472	 Ouais, j'ai vu ça.
+cefc-clapi-commerce_fromagerie-2271	 comment ça s'appelle...
+cefc-clapi-aperitif_chat-766	 Nouveau.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-248	 C'est la tête d'un hibou.
+cefc-clapi-commerce_fromagerie-557	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-302	 de chants dont 34 belles chants et 8
+cefc-clapi-aperitif_glasgow-314	 par David Thau.
+cefc-clapi-visite_guidee_manoir_guide1-262	 Si vous avez des questions sur une chose en particulier, vous m'invitez.
+cefc-clapi-visite_guidee_manoir_guide2-781	 Bon bah là vous y verrez des costumes aussi adultes.
+cefc-clapi-aperitif_pois-980	 Ah ouais !
+cefc-clapi-commerce_fromagerie-1016	 au vu de ce qu'il y a comme je trouve ici
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-636	 ...
+cefc-clapi-aperitif_glasgow-1650	 t'es obligé de prendre des courrèges
+cefc-clapi-reunion_organisation_dh-1440	 oui, il y en a qui s'appréhendent
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-307	 Au revoir !
+cefc-clapi-repas_kiwi-285	 C'est déjà ça. Tu vois ce que je veux dire ?
+cefc-clapi-aperitif_rupture-1018	 les témoins
+cefc-clapi-repas_francais-88	 Je suis intéressée par...
+cefc-clapi-reunion_conception_mosaic_architecture-341	 mais pour l'instant, on ne peut pas lui répondre.
+cefc-clapi-jeux_video_foot_Lyon-1370	 Je suis tout seul là.
+cefc-clapi-reunion_organisation_dh-1576	 il fallait trouver des gens
+cefc-clapi-reunion_conception_mosaic_architecture-1801	 l'ascenseur.
+cefc-clapi-reunion_organisation_dh-416	 C'est vraiment...
+cefc-clapi-reunion_conception_mosaic_architecture-540	 si je suis là, il faut que je sorte dehors
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-409	 ...
+cefc-clapi-commerce_fromagerie-1348	 Merci.
+cefc-clapi-repas_francais-647	 En fait, il ressort que le téléphone est
+cefc-clapi-commerce_fromagerie-2976	 non ça c'est la cantine
+cefc-clapi-reunion_conception_mosaic_architecture-2713	 remarquer
+cefc-clapi-reunion_conception_mosaic_architecture-2459	 des sols.
+cefc-clapi-aperitif_pois-335	 Et cette année, je pense qu'après Noël, en Allemagne, je vais probablement aussi partir en Suède.
+cefc-clapi-aperitif_chat-842	 voilà
+cefc-clapi-montage_meuble-255	 Oui.
+cefc-clapi-repas_kiwi-1101	 même si tu sais. Parce qu'on a appris en sciences de la cognition
+cefc-clapi-aperitif_pois-125	 ça a vraiment duré
+cefc-clapi-repas_olives-171	 Maman, je suis...
+cefc-clapi-reunion_organisation_dh-1179	 entre autres en utilisant
+cefc-clapi-repas_kiwi-788	 Du coup, tu as mis du verre ?
+cefc-clapi-repas_olives-815	 C'est vrai.
+cefc-clapi-aperitif_glasgow-1860	 C'était tellement bien.
+cefc-clapi-reunion_conception_mosaic_architecture-2741	 C'est pas de l'oeuvre.
+cefc-clapi-aperitif_glasgow-542	 c'est d'organiser un marathon photo dans toutes les grandes villes de France
+cefc-clapi-repas_kiwi-52	 Autrement, il ne marche pas.
+cefc-clapi-repas_kiwi-844	 J'ai pris
+cefc-clapi-visite_guidee_manoir_guide2-568	 Salut !
+cefc-clapi-reunion_conception_mosaic_architecture-439	 donc il vient plutôt s'installer dans cette zone-là.
+cefc-clapi-visite_guidee_manoir_guide2-232	 Merci.
+cefc-clapi-aperitif_rupture-439	 Je te laisse faire.
+cefc-clapi-aperitif_rupture-518	 à chaque agence.
+cefc-clapi-aperitif_glasgow-2094	 on sort pas
+cefc-clapi-repas_kiwi-567	 à la journée à Dalaboon
+cefc-clapi-aperitif_pois-742	 Et comme ça, on fait faillir les leviers.
+cefc-clapi-aperitif_rupture-368	 Ah ouais !
+cefc-clapi-repas_kiwi-690	 c'est grave
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-770	 Non, tu ne marques pas un insecticide ?
+cefc-clapi-aperitif_chat-359	 je vois ce niveau
+cefc-clapi-aperitif_glasgow-263	 Merci.
+cefc-clapi-repas_francais-314	 Ah, moi aussi, c'est pas bien.
+cefc-clapi-commerce_fromagerie-1524	 Je vais lui donner, pas de soucis.
+cefc-clapi-reunion_organisation_dh-719	
+cefc-clapi-jeux_video_foot_Lyon-632	 Il sent mal.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-25	 le sautons
+cefc-clapi-repas_francais-214	 Merci beaucoup.
+cefc-clapi-aperitif_glasgow-165	 Et c'était délicieux.
+cefc-clapi-aperitif_chat-223	
+cefc-clapi-visite_guidee_manoir_guide2-1122	 on dirait plutôt à Mélitia.
+cefc-clapi-repas_kiwi-1377	 Bpihole
+cefc-clapi-commerce_fromagerie-1170	 ça, ça,
+cefc-clapi-visite_guidee_manoir_guide2-532	 Un petit mot sur cette cage d'escalier.
+cefc-clapi-visite_guidee_manoir_guide2-837	 Nous avons le luxe.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-1041	 ou lui marquer le prénom sur l'autre, si ce n'est pas trop compliqué pour lui.
+cefc-clapi-reunion_conception_mosaic_architecture-2246	 Mais est-ce que c'est suffisant pour une zone de restaurant ?
+cefc-clapi-reunion_organisation_dh-2139	 beaucoup d'assouplissements.
+cefc-clapi-aperitif_glasgow-655	 Et en fait, on se réunissait dans la chapelle.
+cefc-clapi-visite_guidee_manoir_guide2-27	 Mais ça ne vous empêche pas de faire beaucoup de choses, beaucoup de découvertes avec les enfants, beaucoup d'artistes, qui me plaisait beaucoup. Le tout, c'est la première année, quand vous descendez de 3e en maternelle,
+cefc-clapi-aperitif_rupture-586	 tout
+cefc-clapi-montage_meuble-459	 Ils sont tous en grève.
+cefc-clapi-visite_guidee_manoir_guide2-215	 Merci.
+cefc-clapi-repas_francais-1176	 ...
+cefc-clapi-jeux_video_foot_Lyon-1656	 Je suis trop azule.
+cefc-clapi-repas_olives-799	 c'est dégoûtant
+cefc-clapi-jeux_video_foot_Lyon-15	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2129	 Alors, on va essayer de...
+cefc-clapi-aperitif_pois-888	 pour
+cefc-clapi-aperitif_rupture-94	 Je me suis rendu compte que c'était ça. Looking for Eric.
+cefc-clapi-aperitif_glasgow-2195	 Merci, Colline.
+cefc-clapi-commerce_fromagerie-299	 et de vous dire que c'est chaud à boire.
+cefc-clapi-reunion_conception_mosaic_architecture-1633	 mais il ne faut pas qu'ils soient...
+cefc-clapi-repas_epinards-380	 C'est bien ça
+cefc-clapi-aperitif_rupture-876	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-697	 une bouilloire à bain.
+cefc-clapi-repas_olives-955	 J'ai bien commencé
+cefc-clapi-reunion_conception_mosaic_architecture-877_1	 Ça peut être un bureau,
+cefc-clapi-repas_kiwi-896	 Alors
+cefc-clapi-aperitif_pois-355	 Donc c'est bien pour les vivants.
+cefc-clapi-aperitif_rupture-243	 Mais non, c'est leur nom de famille.
+cefc-clapi-commerce_fromagerie-331	 10 kilos pour...
+cefc-clapi-repas_kiwi-447	 Je te dis...
+cefc-clapi-repas_kiwi-1249	 Non
+cefc-clapi-repas_francais-701	 En fait elle rentre les 28 je crois.
+cefc-clapi-aperitif_rupture-631	 Ah !
+cefc-clapi-aperitif_chat-539	 Moi, j'ai eu des chats, j'ai eu un chien aussi.
+cefc-clapi-visite_guidee_manoir_guide1-870	 mais il révolte en 1848 avec plus vite que prévu.
+cefc-clapi-commerce_fromagerie-1645	 Merci.
+cefc-clapi-commerce_fromagerie-658	 par contre pas trop
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-89	 Je vous rends sœur.
+cefc-clapi-aperitif_chat-115	 Non mais...
+cefc-clapi-commerce_fromagerie-1278	 Sous-titrage Société Radio-Canada
+cefc-clapi-reunion_organisation_dh-639	 Je vais en Inde, le karma.
+cefc-clapi-repas_francais-1241	 ce que tu sais,
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-101	 1,75 1,82
+cefc-clapi-reunion_conception_mosaic_architecture-1005	 ne sais-je que sur les sous-extérieurs.
+cefc-clapi-repas_kiwi-341	 elle a pas trop confiance en elle
+cefc-clapi-reunion_conception_mosaic_architecture-2053	 Je pense.
+cefc-clapi-jeux_video_foot_Lyon-1152	 Je donne un out. Voilà. Ouais, je donne un out.
+cefc-clapi-repas_francais-800	 C'est comme en poster, tu vois, ils entiquent comme ça.
+cefc-clapi-aperitif_glasgow-1844	 passé une fin d'année
+cefc-clapi-visite_guidee_manoir_guide1-492	 ou si parce que ça vaut.
+cefc-clapi-commerce_fromagerie-2990	 On est en deuxième position.
+cefc-clapi-reunion_organisation_dh-1556	 des feux
+cefc-clapi-commerce_fromagerie-297	 Non, pas encore.
+cefc-clapi-jeux_video_foot_Lyon-731	 Non.
+cefc-clapi-reunion_organisation_dh-100	 joyeuse, néanmoins. Je vais faire un peu de coup, on va passer une minute sur la, si on peut. En plus, sur ce, je vais se mettre là.
+cefc-clapi-commerce_fromagerie-2652	 C'est pas suffisant.
+cefc-clapi-reunion_conception_mosaic_architecture-2207	 Donc, ça veut dire quoi ?
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-161	 Le samedi après-midi aussi on ferme.
+cefc-clapi-reunion_conception_mosaic_architecture-2179	 mais aujourd'hui il n'y a rien.
+cefc-clapi-reunion_conception_mosaic_architecture-778	 il est dévolu
+cefc-clapi-commerce_fromagerie-928	 c'est ce qu'ils appellent la mycologie
+cefc-clapi-jeux_video_foot_Lyon-1214	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1016	 Merci.
+cefc-clapi-aperitif_glasgow-1375	 C'est un truc de gestion, gestion de personnalité.
+cefc-clapi-aperitif_glasgow-1857	 au programme système.
+cefc-clapi-repas_kiwi-1126	 on a bien les paniques
+cefc-clapi-jeux_video_foot_Lyon-688	 Oui.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-723	 Pose-y vers mon sac.
+cefc-clapi-aperitif_pois-591	 C'est vraiment bizarre.
+cefc-clapi-commerce_fromagerie-882	 tu restes pas sur le chef, tu te dis, bah ça c'est un chef qui joue du poids de douce,
+cefc-clapi-reunion_organisation_dh-1241	 Comment ils le voient ?
+cefc-clapi-jeux_video_foot_Lyon-1175	 Pas de piscine, pas de piscine.
+cefc-clapi-reunion_organisation_dh-1626	 vous disiez, les institutionnels ont des difficultés pour toucher
+cefc-clapi-jeux_video_foot_Lyon-1486_1	 Franchement non.
+cefc-clapi-aperitif_glasgow-538	 C'est qui ? En fait, c'est parce que j'ai fait un marathon photo avec elle.
+cefc-clapi-jeux_video_foot_Lyon-1954	 Eh la d*** !
+cefc-clapi-aperitif_chat-500	 Il n'a rien touché au canapé jusqu'au là-haut.
+cefc-clapi-visite_guidee_manoir_guide1-547	 On retrouve sur les dossiers de siège ici.
+cefc-clapi-repas_olives-639	 Bye
+cefc-clapi-reunion_organisation_dh-215	 Les gens ne se parlent pas assez.
+cefc-clapi-commerce_fromagerie-1411	 Merci.
+cefc-clapi-commerce_fromagerie-2536	 comme ça.
+cefc-clapi-reunion_conception_mosaic_architecture-773	 dans les...
+cefc-clapi-commerce_fromagerie-255	 c'est ce qu'on dit
+cefc-clapi-aperitif_pois-353	 tout le monde doit travailler les week-ends, faire les plans.
+cefc-clapi-montage_meuble-149	 les trous gris à l'extérieur
+cefc-clapi-aperitif_rupture-28	 fini. Je croyais que t'avais cru qu'il avait dit partout
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-875	 Merci.
+cefc-clapi-aperitif_glasgow-153	 qui est tout petit.
+cefc-clapi-repas_kiwi-1234	 Oui, ça a été le signe.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-148	 Ah, c'est bienveillant. On est jolies de se souvenir.
+cefc-clapi-reunion_conception_mosaic_architecture-2939	 un trou un trou
+cefc-clapi-commerce_fromagerie-2767	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-312	 performant.
+cefc-clapi-aperitif_pois-50	 C'est quoi ces petits trucs là?
+cefc-clapi-visite_guidee_manoir_guide2-789	 C'est assez rigide.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-891	 Alors il faut que je recommande aussi des t-shirts.
+cefc-clapi-aperitif_rupture-1041	 Merci.
+cefc-clapi-aperitif_rupture-277	 il y a un petit pack
+cefc-clapi-aperitif_rupture-1060	 t'as réellement une période petite t'as l'habitude de gérer
+cefc-clapi-repas_kiwi-961	 sont spécialisés
+cefc-clapi-aperitif_rupture-1189	 Bonne chance à tous.
+cefc-clapi-reunion_organisation_dh-1749	 qui avait écrit Exquis sans savoir que l'amant d'autre avait écrit le cadavre.
+cefc-clapi-repas_francais-1079	 Elle a besoin.
+cefc-clapi-repas_olives-320	 Oui.
+cefc-clapi-aperitif_glasgow-1731	 mais
+cefc-clapi-repas_kiwi-55	 Voilà.
+cefc-clapi-visite_guidee_manoir_guide2-1473	 mais ça n'était que des essais ici. Son vrai chef-d'œuvre est ici.
+cefc-clapi-repas_olives-203	 Je vais vous suivre demain.
+cefc-clapi-aperitif_glasgow-994	 C'est mes prostituées qui m'aident à faire les trucs.
+cefc-clapi-aperitif_rupture-1295	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1018	 по économ lash
+cefc-clapi-reunion_conception_mosaic_architecture-2120	 c'est pas jeune
+cefc-clapi-commerce_fromagerie-356	 Merci.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-411	 Et ça marche avec vous.
+cefc-clapi-reunion_conception_mosaic_architecture-1584	 Non, non.
+cefc-clapi-reunion_conception_mosaic_architecture-2829	 pour
+cefc-clapi-reunion_organisation_dh-1333	 Amen.
+cefc-clapi-reunion_conception_mosaic_architecture-562	 Donc là, on aurait plutôt nos deux zones sanitaires restos.
+cefc-clapi-aperitif_glasgow-78	 T'as vu ce nid ?
+cefc-clapi-jeux_video_foot_Lyon-255	 que ma mère
+cefc-clapi-montage_meuble-227	 Merci.
+cefc-clapi-repas_kiwi-876	 mais en plus, il y a même l'année
+cefc-clapi-repas_francais-1272	 donc j'ai rendu quand même vachement en retard
+cefc-clapi-commerce_fromagerie-1681	 Les mules conservateurs du Pôle Nord.
+cefc-clapi-reunion_conception_mosaic_architecture-1857	 Non.
+cefc-clapi-aperitif_glasgow-2345	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-2384	 mais si c'est un couloir éclairé avec de la lumière, c'est plutôt sympathique.
+cefc-clapi-reunion_organisation_dh-256	 Ski as
+cefc-clapi-reunion_organisation_dh-1694	 Ils sont noirs.
+cefc-clapi-repas_kiwi-795	 ça devait être...
+cefc-clapi-aperitif_rupture-482	 Oui.
+cefc-clapi-visite_guidee_manoir_guide2-142	 ...
+cefc-clapi-visite_guidee_manoir_guide2-381	 alors la question
+cefc-clapi-jeux_video_foot_Lyon-1713	 Bon délai !
+cefc-clapi-aperitif_chat-584	 elle attrape les maladies pas possible
+cefc-clapi-reunion_conception_mosaic_architecture-222	 Au revoir.
+cefc-clapi-aperitif_glasgow-1378	 Donc, j'ai acheté le Taj Mahal.
+cefc-clapi-visite_guidee_manoir_guide1-544	 Merci.
+cefc-clapi-reunion_organisation_dh-1825	 qu'ils ont fait...
+cefc-clapi-reunion_conception_mosaic_architecture-1105	 Donc finalement, cet ascenseur-là, il sait bien sa place.
+cefc-clapi-reunion_organisation_dh-2177	 Alors, peut-être que vous en avez des astuces, des mots.
+cefc-clapi-reunion_organisation_dh-1522	 Je pense qu'on peut faire un appel à...
+cefc-clapi-aperitif_pois-418	 le tien
+cefc-clapi-commerce_fromagerie-976	 Ben tu vois, mon...
+cefc-clapi-repas_kiwi-691	 Et il est ami, mais il est un master. C'est un peu dans les mythologies, du coup.
+cefc-clapi-commerce_fromagerie-376	 C'est pas bon.
+cefc-clapi-commerce_fromagerie-2228	 Il y a une bonne salle de salle.
+cefc-clapi-repas_olives-648	 très malade, j'ai eu une infection en arrière, un petit peu de truc
+cefc-clapi-aperitif_glasgow-1935	 Merci.
+cefc-clapi-aperitif_glasgow-1080	 J'ai fait, tu sais, comment on faisait en français au lycée ?
+cefc-clapi-visite_guidee_manoir_guide2-1476	 Merci.
+cefc-clapi-reunion_conception_mosaic_architecture-994	 Au niveau du bar et du salon adjacents,
+cefc-clapi-reunion_organisation_dh-860	 à la barre de sa propre vie
+cefc-clapi-reunion_conception_mosaic_architecture-2968	 Tandis
+cefc-clapi-commerce_fromagerie-592	 Merci.
+cefc-clapi-aperitif_rupture-312	 Un disque ta ramené
+cefc-clapi-commerce_fromagerie-1010	 Si on les met côte à côte, ça ne serait pas bon.
+cefc-clapi-aperitif_glasgow-1078	 j'ai essayé de mettre tous les trucs
+cefc-clapi-aperitif_glasgow-290	 Bon, ça nous a coûté super cher le week-end.
+cefc-clapi-repas_francais-1136	 Je devais rappeler un truc cette semaine.
+cefc-clapi-reunion_organisation_dh-1447	 Est-ce qu'on peut faire un délai sur la question de comment coopérer ?
+cefc-clapi-jeux_video_foot_Lyon-609	 C'est le jeté donc
+cefc-clapi-commerce_fromagerie-1869	 spécifique pour vous.
+cefc-clapi-reunion_conception_mosaic_architecture-2085	 mais il pense...
+cefc-clapi-repas_epinards-325	 Quand il nous a lavé, j'ai senti que j'étais déjà faim.
+cefc-clapi-repas_kiwi-838	 et qu'il trouve des trucs trop bien qu'il faut. Ça lui arrive.
+cefc-clapi-repas_olives-459	 Et c'était sur les kangourous.
+cefc-clapi-visite_guidee_manoir_guide2-835	 le tableau de grand-sœur.
+cefc-clapi-reunion_organisation_dh-1867_1	 pour animer les soirées.
+cefc-clapi-aperitif_rupture-1304	 Ça, ça m'a fait plaisir aussi.
+cefc-clapi-commerce_fromagerie-674	 Merci.
+cefc-clapi-visite_guidee_manoir_guide2-936	 faire décapiter tous les cochers de Bretagne.
+cefc-clapi-aperitif_rupture-639	 ça dépend
+cefc-clapi-visite_guidee_manoir_guide1-132	 Mais si vous regardez bien, vous n'aurez jamais de romantisme.
+cefc-clapi-visite_guidee_manoir_guide2-244	 Euh...
+cefc-clapi-aperitif_glasgow-2034	 il me reste
+cefc-clapi-repas_kiwi-846	 c'est pas le cas de tout le monde
+cefc-clapi-aperitif_rupture-1119	 ça a mis plusieurs mois à cicatrider
+cefc-clapi-reunion_organisation_dh-802	 Maintenant, il n'y a plus un pays qui obéit à la loi.
+cefc-clapi-repas_francais-1283	 Non, c'est pas des consignes, quoi.
+cefc-clapi-visite_guidee_manoir_guide1-126	 Merci.
+cefc-clapi-repas_olives-921	 Moi j'ai...
+cefc-clapi-reunion_conception_mosaic_architecture-2771	 ni même le placard.
+cefc-clapi-reunion_conception_mosaic_architecture-944	 qui fait aussi bien
+cefc-clapi-commerce_fromagerie-1122	 Au revoir.
+cefc-clapi-visite_guidee_manoir_guide2-873	 Voilà, et il est affilié à l'école de Pontaven.
+cefc-clapi-visite_guidee_manoir_guide1-560	 qui a monté l'école.
+cefc-clapi-repas_kiwi-1153	 Oui, oui, c'est tout.
+cefc-clapi-visite_guidee_manoir_guide1-381	 Et le sol aussi qui est un petit peu bombé. On va le remettre.
+cefc-clapi-reunion_organisation_dh-511	 même s'ils en ont des intérêts, ils s'aperçoivent qu'ils sont dedans. Il y en a qui peuvent se dire que la partie climatologie, je m'en balance complètement,
+cefc-clapi-aperitif_glasgow-617	 je leur ai expliqué le truc, ils sont là,
+cefc-clapi-reunion_organisation_dh-448	 c'était normal
+cefc-clapi-commerce_fromagerie-2632	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1095	 Où est-il vu ? Il s'en va et il a un article sur ses smaragdes !! Eh, tu n'attaques pas la batterie !
+cefc-clapi-repas_kiwi-745	 Sous-titrage Société Radio-Canada
+cefc-clapi-visite_guidee_manoir_guide2-964	 ce paysage de coups de bretonne qu'on décline sous carte postale à si elle est
+cefc-clapi-commerce_fromagerie-1793	 C'est chaud parce qu'on est en train de se...
+cefc-clapi-repas_francais-940	 mais quand tu
+cefc-clapi-montage_meuble-153	 Merci.
+cefc-clapi-repas_kiwi-1168	 parce que je pense qu'il faut vraiment tout voir
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-130	 L'épice de chocolat.
+cefc-clapi-jeux_video_foot_Lyon-995	 Je sais même pas ce que j'ai cru.
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-280_1	 Tu gardes n'importe quoi.
+cefc-clapi-reunion_organisation_dh-1227	 Ce matin, je racontais encore une anecdote qui se produit à Haché-Montréal.
+cefc-clapi-reunion_organisation_dh-392	 Merci.
+cefc-clapi-repas_francais-33	 mais je te passerai ça ce week-end, je pense.
+cefc-clapi-visite_guidee_manoir_guide2-1233	 Je vous rappelle que c'est une pièce destinée aux messieurs.
+cefc-clapi-reunion_conception_mosaic_architecture-1518	 autant les faire, autant faire profiter
+cefc-clapi-repas_francais-858	 En plus, moi, tu vois, elle a fait de la carto.
+cefc-clapi-repas_francais-1244	 et j'ai
+cefc-clapi-repas_olives-416	 J'ai envie mal à manger du congo
+cefc-clapi-repas_kiwi-913	 Oui.
+cefc-clapi-visite_guidee_manoir_guide1-158	 Là, vous êtes dans la partie 16e du bâtiment.
+cefc-clapi-jeux_video_foot_Lyon-333	 Merci.
+cefc-clapi-jeux_video_foot_Lyon-1695_2	 Merci d'avoir regardé cette vidéo !
+cefc-clapi-reunion_conception_mosaic_architecture-1891	 Oui, oui.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-835	 Ma vie. Je l'ai oublié.
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-346	 C'est bien aussi l'improviste.
+cefc-clapi-reunion_conception_mosaic_architecture-2264	 Et on fait ça.
+cefc-clapi-visite_guidee_manoir_guide2-722	 et donc on ne le fera pas abandonner de sitôt.
+cefc-clapi-repas_kiwi-308	 trop la galère pour essayer de comprendre quelque chose et vu qu'elle a pas fait comptabilité
+cefc-clapi-commerce_boulangerie_rurale_C01_C20-306	 Oh my god !
+cefc-clapi-commerce_boulangerie_rurale_C21_C40-839	 des
+cefc-clapi-montage_meuble-593_2	 ça va se cuisser les deux autres
+cefc-clapi-visite_guidee_manoir_guide1-107	 Depuis 1966, elle a fermé.
+cefc-clapi-commerce_fromagerie-232	 Merci.
+cefc-clapi-aperitif_rupture-315	 Du coup, celui que j'ai acheté hier, il était comment là ?
+cefc-clapi-jeux_video_foot_Lyon-1197	 satan

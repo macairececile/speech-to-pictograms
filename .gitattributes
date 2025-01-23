@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/NMT/commonvoice/commonvoice_process/train.fr-frp filter=lfs diff=lfs merge=lfs -text

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SPM=/gpfswork/rech/czj/uef37or/sentencepiece/build/src/spm_encode
-MODEL=/gpfsstore/rech/czj/uef37or/pretrained_models/mbart.cc25.v2/sentence.bpe.model
+SPM=/sentencepiece/build/src/spm_encode
+MODEL=/mbart.cc25.v2/sentence.bpe.model
 
 SRC=fr
 TGT=frp

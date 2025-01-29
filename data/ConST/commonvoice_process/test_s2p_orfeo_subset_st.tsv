@@ -1,0 +1,3 @@
+id	audio	n_frames	speaker	src_text	tgt_text	src_lang	tgt_lang
+/gpfswork/rech/czj/uef37or/data/orfeo/clips/cefc-frenchoralnarrative-De_La_Salle_GRAND-MERE_MENSONGE_4-178	/gpfswork/rech/czj/uef37or/data/orfeo/clips/cefc-frenchoralnarrative-De_La_Salle_GRAND-MERE_MENSONGE_4-178.wav:0:86879	86879	spk.0	après l'hôpital On Les Répare hmm enfin on essaye	après le hôpital nous les réparer nous essayer	fr	frp
+/gpfswork/rech/czj/uef37or/data/orfeo/clips/cefc-frenchoralnarrative-Nataf_041-4_LA_CHEMISE_MAGIQUE-318	/gpfswork/rech/czj/uef37or/data/orfeo/clips/cefc-frenchoralnarrative-Nataf_041-4_LA_CHEMISE_MAGIQUE-318.wav:0:43360	43360	spk.0	ta fille m'a pris un anneau d'or qu'elle me le rende	passé ton fille me prendre un de or que elle me le rendre	fr	frp
